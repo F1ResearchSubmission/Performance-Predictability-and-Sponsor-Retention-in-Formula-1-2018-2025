@@ -2,7 +2,7 @@
 
 Data and code for a study of sponsor continuation across all ten Formula 1 constructors. It asks whether qualifying-to-race predictability is associated with a sponsor staying with a team the next season, beyond conventional performance, and describes how the industry mix of F1 sponsorship changed from 2018 to 2025.
 
-The sponsor dataset (2,083 sponsor-team-season records, 643 sponsors) was compiled by hand for this project and is published here in full.
+The sponsor dataset includes 2,083 sponsor-team-season records and 643 sponsors.
 
 ## Results
 
