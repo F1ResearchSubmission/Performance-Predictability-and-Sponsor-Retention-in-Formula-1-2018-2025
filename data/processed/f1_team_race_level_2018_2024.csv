@@ -1,0 +1,1491 @@
+Season,RoundNumber,RaceName,Team,AvgQualifyingPos,AvgRaceFinishPos,TotalRacePoints,NumDrivers
+2018,1,Australian Grand Prix,Alpine/Renault,8.5,8.5,7.0,2
+2018,1,Australian Grand Prix,Aston Martin/Racing Point/Force India,14.0,11.5,0.0,2
+2018,1,Australian Grand Prix,Ferrari,2.5,2.0,40.0,2
+2018,1,Australian Grand Prix,Haas,6.5,16.5,0.0,2
+2018,1,Australian Grand Prix,McLaren,11.5,7.0,12.0,2
+2018,1,Australian Grand Prix,Mercedes,5.5,5.0,22.0,2
+2018,1,Australian Grand Prix,RB/AlphaTauri/Toro Rosso,18.0,16.5,0.0,2
+2018,1,Australian Grand Prix,Red Bull Racing,4.5,5.0,20.0,2
+2018,1,Australian Grand Prix,Sauber/Alfa Romeo,17.5,16.0,0.0,2
+2018,1,Australian Grand Prix,Williams,16.5,17.0,0.0,2
+2018,2,Bahrain Grand Prix,Alpine/Renault,9.0,8.5,8.0,2
+2018,2,Bahrain Grand Prix,Aston Martin/Racing Point/Force India,10.5,13.0,1.0,2
+2018,2,Bahrain Grand Prix,Ferrari,1.5,9.5,25.0,2
+2018,2,Bahrain Grand Prix,Haas,11.5,9.0,10.0,2
+2018,2,Bahrain Grand Prix,McLaren,13.5,7.5,10.0,2
+2018,2,Bahrain Grand Prix,Mercedes,3.5,2.5,33.0,2
+2018,2,Bahrain Grand Prix,RB/AlphaTauri/Toro Rosso,8.5,10.5,12.0,2
+2018,2,Bahrain Grand Prix,Red Bull Racing,10.0,19.5,0.0,2
+2018,2,Bahrain Grand Prix,Sauber/Alfa Romeo,18.0,10.5,2.0,2
+2018,2,Bahrain Grand Prix,Williams,19.0,14.5,0.0,2
+2018,3,Chinese Grand Prix,Alpine/Renault,8.0,7.5,10.0,2
+2018,3,Chinese Grand Prix,Aston Martin/Racing Point/Force India,10.0,11.5,0.0,2
+2018,3,Chinese Grand Prix,Ferrari,1.5,5.5,19.0,2
+2018,3,Chinese Grand Prix,Haas,10.5,13.5,1.0,2
+2018,3,Chinese Grand Prix,McLaren,13.5,10.0,6.0,2
+2018,3,Chinese Grand Prix,Mercedes,3.5,3.0,30.0,2
+2018,3,Chinese Grand Prix,RB/AlphaTauri/Toro Rosso,16.0,19.0,0.0,2
+2018,3,Chinese Grand Prix,Red Bull Racing,5.5,3.0,35.0,2
+2018,3,Chinese Grand Prix,Sauber/Alfa Romeo,19.5,17.5,0.0,2
+2018,3,Chinese Grand Prix,Williams,17.0,14.5,0.0,2
+2018,4,Azerbaijan Grand Prix,Alpine/Renault,9.5,11.5,10.0,2
+2018,4,Azerbaijan Grand Prix,Aston Martin/Racing Point/Force India,7.5,11.0,15.0,2
+2018,4,Azerbaijan Grand Prix,Ferrari,3.5,3.0,30.0,2
+2018,4,Azerbaijan Grand Prix,Haas,17.5,14.0,0.0,2
+2018,4,Azerbaijan Grand Prix,McLaren,14.5,8.0,8.0,2
+2018,4,Azerbaijan Grand Prix,Mercedes,2.5,7.5,25.0,2
+2018,4,Azerbaijan Grand Prix,RB/AlphaTauri/Toro Rosso,18.0,11.0,1.0,2
+2018,4,Azerbaijan Grand Prix,Red Bull Racing,4.5,16.5,0.0,2
+2018,4,Azerbaijan Grand Prix,Sauber/Alfa Romeo,16.0,8.5,8.0,2
+2018,4,Azerbaijan Grand Prix,Williams,11.5,14.0,4.0,2
+2018,5,Spanish Grand Prix,Alpine/Renault,12.5,13.5,6.0,2
+2018,5,Spanish Grand Prix,Aston Martin/Racing Point/Force India,14.0,12.5,2.0,2
+2018,5,Spanish Grand Prix,Ferrari,3.5,10.5,12.0,2
+2018,5,Spanish Grand Prix,Haas,8.5,12.0,8.0,2
+2018,5,Spanish Grand Prix,McLaren,9.5,11.5,4.0,2
+2018,5,Spanish Grand Prix,Mercedes,1.5,1.5,43.0,2
+2018,5,Spanish Grand Prix,RB/AlphaTauri/Toro Rosso,16.0,15.5,0.0,2
+2018,5,Spanish Grand Prix,Red Bull Racing,5.5,4.0,25.0,2
+2018,5,Spanish Grand Prix,Sauber/Alfa Romeo,15.5,11.5,1.0,2
+2018,5,Spanish Grand Prix,Williams,18.5,12.5,0.0,2
+2018,6,Monaco Grand Prix,Alpine/Renault,9.5,9.0,5.0,2
+2018,6,Monaco Grand Prix,Aston Martin/Racing Point/Force India,7.5,9.0,8.0,2
+2018,6,Monaco Grand Prix,Ferrari,3.0,3.0,30.0,2
+2018,6,Monaco Grand Prix,Haas,17.0,14.0,0.0,2
+2018,6,Monaco Grand Prix,McLaren,9.5,17.0,0.0,2
+2018,6,Monaco Grand Prix,Mercedes,4.0,4.0,25.0,2
+2018,6,Monaco Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,13.0,6.0,2
+2018,6,Monaco Grand Prix,Red Bull Racing,10.5,5.0,27.0,2
+2018,6,Monaco Grand Prix,Sauber/Alfa Romeo,15.5,14.5,0.0,2
+2018,6,Monaco Grand Prix,Williams,15.5,16.5,0.0,2
+2018,7,Canadian Grand Prix,Alpine/Renault,8.0,7.5,10.0,2
+2018,7,Canadian Grand Prix,Aston Martin/Racing Point/Force India,9.0,11.5,2.0,2
+2018,7,Canadian Grand Prix,Ferrari,3.0,3.5,33.0,2
+2018,7,Canadian Grand Prix,Haas,15.5,12.5,0.0,2
+2018,7,Canadian Grand Prix,McLaren,14.5,17.0,0.0,2
+2018,7,Canadian Grand Prix,Mercedes,3.0,3.5,28.0,2
+2018,7,Canadian Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,15.0,0.0,2
+2018,7,Canadian Grand Prix,Red Bull Racing,4.5,3.5,27.0,2
+2018,7,Canadian Grand Prix,Sauber/Alfa Romeo,16.0,12.5,1.0,2
+2018,7,Canadian Grand Prix,Williams,17.5,18.5,0.0,2
+2018,8,French Grand Prix,Alpine/Renault,9.5,8.5,6.0,2
+2018,8,French Grand Prix,Aston Martin/Racing Point/Force India,12.0,18.5,0.0,2
+2018,8,French Grand Prix,Ferrari,4.5,4.0,25.0,2
+2018,8,French Grand Prix,Haas,9.5,8.5,8.0,2
+2018,8,French Grand Prix,McLaren,17.0,14.0,0.0,2
+2018,8,French Grand Prix,Mercedes,1.5,4.0,31.0,2
+2018,8,French Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,17.0,0.0,2
+2018,8,French Grand Prix,Red Bull Racing,4.5,3.0,30.0,2
+2018,8,French Grand Prix,Sauber/Alfa Romeo,11.5,11.5,1.0,2
+2018,8,French Grand Prix,Williams,19.5,16.0,0.0,2
+2018,9,Austrian Grand Prix,Alpine/Renault,9.5,16.0,0.0,2
+2018,9,Austrian Grand Prix,Aston Martin/Racing Point/Force India,14.0,6.5,14.0,2
+2018,9,Austrian Grand Prix,Ferrari,3.5,2.5,33.0,2
+2018,9,Austrian Grand Prix,Haas,7.0,4.5,22.0,2
+2018,9,Austrian Grand Prix,McLaren,15.0,11.5,4.0,2
+2018,9,Austrian Grand Prix,Mercedes,1.5,17.5,0.0,2
+2018,9,Austrian Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,14.0,0.0,2
+2018,9,Austrian Grand Prix,Red Bull Racing,6.0,9.5,25.0,2
+2018,9,Austrian Grand Prix,Sauber/Alfa Romeo,16.5,9.5,3.0,2
+2018,9,Austrian Grand Prix,Williams,16.5,13.5,0.0,2
+2018,10,British Grand Prix,Alpine/Renault,13.5,11.5,8.0,2
+2018,10,British Grand Prix,Aston Martin/Racing Point/Force India,11.0,8.5,7.0,2
+2018,10,British Grand Prix,Ferrari,2.5,2.0,40.0,2
+2018,10,British Grand Prix,Haas,7.5,12.5,2.0,2
+2018,10,British Grand Prix,McLaren,15.0,9.5,4.0,2
+2018,10,British Grand Prix,Mercedes,2.5,3.0,30.0,2
+2018,10,British Grand Prix,RB/AlphaTauri/Toro Rosso,17.0,16.5,0.0,2
+2018,10,British Grand Prix,Red Bull Racing,5.5,10.0,10.0,2
+2018,10,British Grand Prix,Sauber/Alfa Romeo,12.0,18.5,0.0,2
+2018,10,British Grand Prix,Williams,18.5,13.0,0.0,2
+2018,11,German Grand Prix,Alpine/Renault,7.5,8.5,10.0,2
+2018,11,German Grand Prix,Aston Martin/Racing Point/Force India,13.0,7.5,10.0,2
+2018,11,German Grand Prix,Ferrari,2.0,10.5,15.0,2
+2018,11,German Grand Prix,Haas,5.5,8.5,8.0,2
+2018,11,German Grand Prix,McLaren,15.5,14.5,0.0,2
+2018,11,German Grand Prix,Mercedes,8.0,1.5,43.0,2
+2018,11,German Grand Prix,RB/AlphaTauri/Toro Rosso,17.5,12.0,1.0,2
+2018,11,German Grand Prix,Red Bull Racing,9.5,12.0,12.0,2
+2018,11,German Grand Prix,Sauber/Alfa Romeo,11.0,12.0,2.0,2
+2018,11,German Grand Prix,Williams,15.5,18.0,0.0,2
+2018,12,Hungarian Grand Prix,Alpine/Renault,9.0,10.5,2.0,2
+2018,12,Hungarian Grand Prix,Aston Martin/Racing Point/Force India,18.5,13.5,0.0,2
+2018,12,Hungarian Grand Prix,Ferrari,3.5,2.5,33.0,2
+2018,12,Hungarian Grand Prix,Haas,9.5,8.5,7.0,2
+2018,12,Hungarian Grand Prix,McLaren,13.5,13.0,4.0,2
+2018,12,Hungarian Grand Prix,Mercedes,1.5,3.0,35.0,2
+2018,12,Hungarian Grand Prix,RB/AlphaTauri/Toro Rosso,7.0,8.5,8.0,2
+2018,12,Hungarian Grand Prix,Red Bull Racing,9.5,11.5,12.0,2
+2018,12,Hungarian Grand Prix,Sauber/Alfa Romeo,15.5,17.5,0.0,2
+2018,12,Hungarian Grand Prix,Williams,17.5,16.5,0.0,2
+2018,13,Belgian Grand Prix,Alpine/Renault,15.5,15.5,0.0,2
+2018,13,Belgian Grand Prix,Aston Martin/Racing Point/Force India,3.5,5.5,18.0,2
+2018,13,Belgian Grand Prix,Ferrari,4.0,9.0,25.0,2
+2018,13,Belgian Grand Prix,Haas,7.0,7.5,10.0,2
+2018,13,Belgian Grand Prix,McLaren,18.5,17.0,0.0,2
+2018,13,Belgian Grand Prix,Mercedes,5.5,3.0,30.0,2
+2018,13,Belgian Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,11.5,2.0,2
+2018,13,Belgian Grand Prix,Red Bull Racing,7.5,9.5,15.0,2
+2018,13,Belgian Grand Prix,Sauber/Alfa Romeo,13.5,14.0,1.0,2
+2018,13,Belgian Grand Prix,Williams,18.5,12.5,0.0,2
+2018,14,Italian Grand Prix,Alpine/Renault,10.5,10.5,4.0,2
+2018,14,Italian Grand Prix,Aston Martin/Racing Point/Force India,12.0,6.5,14.0,2
+2018,14,Italian Grand Prix,Ferrari,1.5,3.0,30.0,2
+2018,14,Italian Grand Prix,Haas,8.5,18.0,0.0,2
+2018,14,Italian Grand Prix,McLaren,16.5,15.0,0.0,2
+2018,14,Italian Grand Prix,Mercedes,3.5,2.0,40.0,2
+2018,14,Italian Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,16.5,0.0,2
+2018,14,Italian Grand Prix,Red Bull Racing,10.0,11.0,10.0,2
+2018,14,Italian Grand Prix,Sauber/Alfa Romeo,18.0,13.0,0.0,2
+2018,14,Italian Grand Prix,Williams,11.0,9.5,3.0,2
+2018,15,Singapore Grand Prix,Alpine/Renault,11.0,9.0,5.0,2
+2018,15,Singapore Grand Prix,Aston Martin/Racing Point/Force India,8.0,18.0,0.0,2
+2018,15,Singapore Grand Prix,Ferrari,4.0,4.0,25.0,2
+2018,15,Singapore Grand Prix,Haas,12.0,16.5,0.0,2
+2018,15,Singapore Grand Prix,McLaren,14.5,9.5,6.0,2
+2018,15,Singapore Grand Prix,Mercedes,2.5,2.5,37.0,2
+2018,15,Singapore Grand Prix,RB/AlphaTauri/Toro Rosso,16.0,15.0,0.0,2
+2018,15,Singapore Grand Prix,Red Bull Racing,4.0,4.0,26.0,2
+2018,15,Singapore Grand Prix,Sauber/Alfa Romeo,13.5,10.0,2.0,2
+2018,15,Singapore Grand Prix,Williams,19.5,16.5,0.0,2
+2018,16,Russian Grand Prix,Alpine/Renault,14.5,14.5,0.0,2
+2018,16,Russian Grand Prix,Aston Martin/Racing Point/Force India,7.0,9.5,3.0,2
+2018,16,Russian Grand Prix,Ferrari,3.5,3.5,27.0,2
+2018,16,Russian Grand Prix,Haas,7.0,9.5,4.0,2
+2018,16,Russian Grand Prix,McLaren,18.0,15.0,0.0,2
+2018,16,Russian Grand Prix,Mercedes,1.5,1.5,43.0,2
+2018,16,Russian Grand Prix,RB/AlphaTauri/Toro Rosso,14.5,19.5,0.0,2
+2018,16,Russian Grand Prix,Red Bull Racing,11.5,5.5,18.0,2
+2018,16,Russian Grand Prix,Sauber/Alfa Romeo,8.5,10.0,6.0,2
+2018,16,Russian Grand Prix,Williams,19.0,16.5,0.0,2
+2018,17,Japanese Grand Prix,Alpine/Renault,14.5,14.5,1.0,2
+2018,17,Japanese Grand Prix,Aston Martin/Racing Point/Force India,9.0,8.0,8.0,2
+2018,17,Japanese Grand Prix,Ferrari,6.5,5.5,18.0,2
+2018,17,Japanese Grand Prix,Haas,8.5,14.0,4.0,2
+2018,17,Japanese Grand Prix,McLaren,18.5,14.5,0.0,2
+2018,17,Japanese Grand Prix,Mercedes,1.5,1.5,43.0,2
+2018,17,Japanese Grand Prix,RB/AlphaTauri/Toro Rosso,6.5,12.0,0.0,2
+2018,17,Japanese Grand Prix,Red Bull Racing,9.0,3.5,27.0,2
+2018,17,Japanese Grand Prix,Sauber/Alfa Romeo,15.5,15.0,0.0,2
+2018,17,Japanese Grand Prix,Williams,15.5,16.5,0.0,2
+2018,18,United States Grand Prix,Alpine/Renault,9.0,6.5,14.0,2
+2018,18,United States Grand Prix,Aston Martin/Racing Point/Force India,8.0,13.5,4.0,2
+2018,18,United States Grand Prix,Ferrari,2.5,2.5,37.0,2
+2018,18,United States Grand Prix,Haas,10.0,18.5,0.0,2
+2018,18,United States Grand Prix,McLaren,18.0,14.5,0.0,2
+2018,18,United States Grand Prix,Mercedes,2.5,4.0,25.0,2
+2018,18,United States Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,10.5,2.0,2
+2018,18,United States Grand Prix,Red Bull Racing,10.0,9.0,18.0,2
+2018,18,United States Grand Prix,Sauber/Alfa Romeo,14.0,12.5,1.0,2
+2018,18,United States Grand Prix,Williams,17.5,13.5,0.0,2
+2018,19,Mexican Grand Prix,Alpine/Renault,7.5,12.5,8.0,2
+2018,19,Mexican Grand Prix,Aston Martin/Racing Point/Force India,12.0,14.5,0.0,2
+2018,19,Mexican Grand Prix,Ferrari,5.0,2.5,33.0,2
+2018,19,Mexican Grand Prix,Haas,17.0,15.5,0.0,2
+2018,19,Mexican Grand Prix,McLaren,14.5,14.0,4.0,2
+2018,19,Mexican Grand Prix,Mercedes,4.0,4.5,22.0,2
+2018,19,Mexican Grand Prix,RB/AlphaTauri/Toro Rosso,14.5,12.0,1.0,2
+2018,19,Mexican Grand Prix,Red Bull Racing,1.5,9.0,25.0,2
+2018,19,Mexican Grand Prix,Sauber/Alfa Romeo,9.5,8.0,8.0,2
+2018,19,Mexican Grand Prix,Williams,19.5,12.5,0.0,2
+2018,20,Brazilian Grand Prix,Alpine/Renault,15.0,15.5,0.0,2
+2018,20,Brazilian Grand Prix,Aston Martin/Racing Point/Force India,12.5,12.5,1.0,2
+2018,20,Brazilian Grand Prix,Ferrari,3.0,4.5,23.0,2
+2018,20,Brazilian Grand Prix,Haas,10.0,8.5,6.0,2
+2018,20,Brazilian Grand Prix,McLaren,19.0,15.5,0.0,2
+2018,20,Brazilian Grand Prix,Mercedes,2.0,3.0,35.0,2
+2018,20,Brazilian Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,12.0,0.0,2
+2018,20,Brazilian Grand Prix,Red Bull Racing,5.5,3.0,30.0,2
+2018,20,Brazilian Grand Prix,Sauber/Alfa Romeo,7.5,13.5,6.0,2
+2018,20,Brazilian Grand Prix,Williams,17.0,17.0,0.0,2
+2018,21,Abu Dhabi Grand Prix,Alpine/Renault,10.5,13.0,8.0,2
+2018,21,Abu Dhabi Grand Prix,Aston Martin/Racing Point/Force India,11.5,12.5,4.0,2
+2018,21,Abu Dhabi Grand Prix,Ferrari,3.5,10.5,18.0,2
+2018,21,Abu Dhabi Grand Prix,Haas,10.0,9.5,3.0,2
+2018,21,Abu Dhabi Grand Prix,McLaren,16.5,12.5,0.0,2
+2018,21,Abu Dhabi Grand Prix,Mercedes,1.5,3.0,35.0,2
+2018,21,Abu Dhabi Grand Prix,RB/AlphaTauri/Toro Rosso,16.5,14.0,0.0,2
+2018,21,Abu Dhabi Grand Prix,Red Bull Racing,5.5,3.5,27.0,2
+2018,21,Abu Dhabi Grand Prix,Sauber/Alfa Romeo,10.0,12.5,6.0,2
+2018,21,Abu Dhabi Grand Prix,Williams,19.5,14.0,0.0,2
+2019,1,Australian Grand Prix,Alpine/Renault,11.5,13.0,6.0,2
+2019,1,Australian Grand Prix,Aston Martin/Racing Point/Force India,13.0,11.0,2.0,2
+2019,1,Australian Grand Prix,Ferrari,4.0,4.5,22.0,2
+2019,1,Australian Grand Prix,Haas,6.5,12.0,8.0,2
+2019,1,Australian Grand Prix,McLaren,13.0,16.0,0.0,2
+2019,1,Australian Grand Prix,Mercedes,1.5,1.5,44.0,2
+2019,1,Australian Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,12.0,1.0,2
+2019,1,Australian Grand Prix,Red Bull Racing,10.5,7.0,15.0,2
+2019,1,Australian Grand Prix,Sauber/Alfa Romeo,11.5,11.5,4.0,2
+2019,1,Australian Grand Prix,Williams,19.5,16.5,0.0,2
+2019,2,Bahrain Grand Prix,Alpine/Renault,14.0,17.5,0.0,2
+2019,2,Bahrain Grand Prix,Aston Martin/Racing Point/Force India,16.0,12.0,1.0,2
+2019,2,Bahrain Grand Prix,Ferrari,1.5,4.0,26.0,2
+2019,2,Bahrain Grand Prix,Haas,7.0,16.5,0.0,2
+2019,2,Bahrain Grand Prix,McLaren,8.5,12.5,8.0,2
+2019,2,Bahrain Grand Prix,Mercedes,3.5,1.5,43.0,2
+2019,2,Bahrain Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,10.5,2.0,2
+2019,2,Bahrain Grand Prix,Red Bull Racing,9.0,6.0,16.0,2
+2019,2,Bahrain Grand Prix,Sauber/Alfa Romeo,12.5,9.0,6.0,2
+2019,2,Bahrain Grand Prix,Williams,19.5,15.5,0.0,2
+2019,3,Chinese Grand Prix,Alpine/Renault,7.5,13.5,6.0,2
+2019,3,Chinese Grand Prix,Aston Martin/Racing Point/Force India,14.0,10.0,4.0,2
+2019,3,Chinese Grand Prix,Ferrari,3.5,4.0,25.0,2
+2019,3,Chinese Grand Prix,Haas,9.5,12.0,0.0,2
+2019,3,Chinese Grand Prix,McLaren,14.5,16.0,0.0,2
+2019,3,Chinese Grand Prix,Mercedes,1.5,1.5,43.0,2
+2019,3,Chinese Grand Prix,RB/AlphaTauri/Toro Rosso,11.0,14.5,1.0,2
+2019,3,Chinese Grand Prix,Red Bull Racing,5.5,5.0,21.0,2
+2019,3,Chinese Grand Prix,Sauber/Alfa Romeo,13.0,12.0,2.0,2
+2019,3,Chinese Grand Prix,Williams,17.5,16.5,0.0,2
+2019,4,Azerbaijan Grand Prix,Alpine/Renault,13.5,17.0,0.0,2
+2019,4,Azerbaijan Grand Prix,Aston Martin/Racing Point/Force India,9.5,7.5,10.0,2
+2019,4,Azerbaijan Grand Prix,Ferrari,6.0,4.0,26.0,2
+2019,4,Azerbaijan Grand Prix,Haas,14.0,15.5,0.0,2
+2019,4,Azerbaijan Grand Prix,McLaren,8.5,7.5,10.0,2
+2019,4,Azerbaijan Grand Prix,Mercedes,1.5,1.5,43.0,2
+2019,4,Azerbaijan Grand Prix,RB/AlphaTauri/Toro Rosso,9.0,15.0,0.0,2
+2019,4,Azerbaijan Grand Prix,Red Bull Racing,12.0,10.5,12.0,2
+2019,4,Azerbaijan Grand Prix,Sauber/Alfa Romeo,13.5,11.0,1.0,2
+2019,4,Azerbaijan Grand Prix,Williams,17.5,15.5,0.0,2
+2019,5,Spanish Grand Prix,Alpine/Renault,13.0,12.5,0.0,2
+2019,5,Spanish Grand Prix,Aston Martin/Racing Point/Force India,16.0,17.0,0.0,2
+2019,5,Spanish Grand Prix,Ferrari,4.0,4.5,22.0,2
+2019,5,Spanish Grand Prix,Haas,7.5,8.5,7.0,2
+2019,5,Spanish Grand Prix,McLaren,12.0,14.0,4.0,2
+2019,5,Spanish Grand Prix,Mercedes,1.5,1.5,44.0,2
+2019,5,Spanish Grand Prix,RB/AlphaTauri/Toro Rosso,10.5,10.0,2.0,2
+2019,5,Spanish Grand Prix,Red Bull Racing,5.0,4.5,23.0,2
+2019,5,Spanish Grand Prix,Sauber/Alfa Romeo,16.0,15.0,0.0,2
+2019,5,Spanish Grand Prix,Williams,19.5,17.5,0.0,2
+2019,6,Monaco Grand Prix,Alpine/Renault,9.0,11.0,2.0,2
+2019,6,Monaco Grand Prix,Aston Martin/Racing Point/Force India,17.5,14.0,0.0,2
+2019,6,Monaco Grand Prix,Ferrari,10.0,11.0,18.0,2
+2019,6,Monaco Grand Prix,Haas,9.5,12.0,1.0,2
+2019,6,Monaco Grand Prix,McLaren,10.5,8.5,8.0,2
+2019,6,Monaco Grand Prix,Mercedes,1.5,2.0,40.0,2
+2019,6,Monaco Grand Prix,RB/AlphaTauri/Toro Rosso,9.0,7.5,10.0,2
+2019,6,Monaco Grand Prix,Red Bull Racing,4.0,4.5,23.0,2
+2019,6,Monaco Grand Prix,Sauber/Alfa Romeo,14.5,18.0,0.0,2
+2019,6,Monaco Grand Prix,Williams,19.5,16.5,0.0,2
+2019,7,Canadian Grand Prix,Alpine/Renault,5.5,6.5,14.0,2
+2019,7,Canadian Grand Prix,Aston Martin/Racing Point/Force India,17.0,10.5,2.0,2
+2019,7,Canadian Grand Prix,Ferrari,2.0,2.5,33.0,2
+2019,7,Canadian Grand Prix,Haas,12.5,15.5,0.0,2
+2019,7,Canadian Grand Prix,McLaren,8.5,15.5,0.0,2
+2019,7,Canadian Grand Prix,Mercedes,4.0,2.5,38.0,2
+2019,7,Canadian Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,14.5,1.0,2
+2019,7,Canadian Grand Prix,Red Bull Racing,8.0,6.5,14.0,2
+2019,7,Canadian Grand Prix,Sauber/Alfa Romeo,15.0,14.0,0.0,2
+2019,7,Canadian Grand Prix,Williams,19.5,17.0,0.0,2
+2019,8,French Grand Prix,Alpine/Renault,10.5,9.5,4.0,2
+2019,8,French Grand Prix,Aston Martin/Racing Point/Force India,16.0,12.5,0.0,2
+2019,8,French Grand Prix,Ferrari,5.0,4.0,26.0,2
+2019,8,French Grand Prix,Haas,16.0,18.5,0.0,2
+2019,8,French Grand Prix,McLaren,5.5,7.5,10.0,2
+2019,8,French Grand Prix,Mercedes,1.5,1.5,43.0,2
+2019,8,French Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,14.5,0.0,2
+2019,8,French Grand Prix,Red Bull Racing,6.5,7.0,13.0,2
+2019,8,French Grand Prix,Sauber/Alfa Romeo,11.0,11.5,6.0,2
+2019,8,French Grand Prix,Williams,19.5,18.5,0.0,2
+2019,9,Austrian Grand Prix,Alpine/Renault,13.0,12.5,0.0,2
+2019,9,Austrian Grand Prix,Aston Martin/Racing Point/Force India,16.5,12.5,0.0,2
+2019,9,Austrian Grand Prix,Ferrari,5.5,3.0,30.0,2
+2019,9,Austrian Grand Prix,Haas,8.0,17.5,0.0,2
+2019,9,Austrian Grand Prix,McLaren,10.5,7.0,12.0,2
+2019,9,Austrian Grand Prix,Mercedes,3.0,4.0,25.0,2
+2019,9,Austrian Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,16.0,0.0,2
+2019,9,Austrian Grand Prix,Red Bull Racing,6.0,4.0,32.0,2
+2019,9,Austrian Grand Prix,Sauber/Alfa Romeo,7.5,9.5,3.0,2
+2019,9,Austrian Grand Prix,Williams,19.5,19.0,0.0,2
+2019,10,British Grand Prix,Alpine/Renault,8.5,8.5,7.0,2
+2019,10,British Grand Prix,Aston Martin/Racing Point/Force India,16.5,15.0,0.0,2
+2019,10,British Grand Prix,Ferrari,4.5,9.5,15.0,2
+2019,10,British Grand Prix,Haas,15.0,19.5,0.0,2
+2019,10,British Grand Prix,McLaren,10.5,8.5,8.0,2
+2019,10,British Grand Prix,Mercedes,1.5,1.5,44.0,2
+2019,10,British Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,10.5,2.0,2
+2019,10,British Grand Prix,Red Bull Racing,4.5,4.5,22.0,2
+2019,10,British Grand Prix,Sauber/Alfa Romeo,11.5,13.0,4.0,2
+2019,10,British Grand Prix,Williams,19.5,14.5,0.0,2
+2019,11,German Grand Prix,Alpine/Renault,11.0,17.5,0.0,2
+2019,11,German Grand Prix,Aston Martin/Racing Point/Force India,11.5,12.0,12.0,2
+2019,11,German Grand Prix,Ferrari,15.0,9.5,18.0,2
+2019,11,German Grand Prix,Haas,9.0,7.5,10.0,2
+2019,11,German Grand Prix,McLaren,11.5,11.5,10.0,2
+2019,11,German Grand Prix,Mercedes,2.0,12.0,2.0,2
+2019,11,German Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,4.5,23.0,2
+2019,11,German Grand Prix,Red Bull Racing,3.0,7.5,26.0,2
+2019,11,German Grand Prix,Sauber/Alfa Romeo,8.0,12.5,0.0,2
+2019,11,German Grand Prix,Williams,18.5,10.5,1.0,2
+2019,12,Hungarian Grand Prix,Alpine/Renault,14.5,13.0,0.0,2
+2019,12,Hungarian Grand Prix,Aston Martin/Racing Point/Force India,18.0,14.0,0.0,2
+2019,12,Hungarian Grand Prix,Ferrari,4.5,3.5,27.0,2
+2019,12,Hungarian Grand Prix,Haas,12.0,16.5,0.0,2
+2019,12,Hungarian Grand Prix,McLaren,7.5,7.0,12.0,2
+2019,12,Hungarian Grand Prix,Mercedes,2.5,4.5,29.0,2
+2019,12,Hungarian Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,12.5,1.0,2
+2019,12,Hungarian Grand Prix,Red Bull Racing,3.5,4.0,27.0,2
+2019,12,Hungarian Grand Prix,Sauber/Alfa Romeo,12.0,12.5,6.0,2
+2019,12,Hungarian Grand Prix,Williams,18.0,17.5,0.0,2
+2019,13,Belgian Grand Prix,Alpine/Renault,6.5,11.0,4.0,2
+2019,13,Belgian Grand Prix,Aston Martin/Racing Point/Force India,11.0,8.0,9.0,2
+2019,13,Belgian Grand Prix,Ferrari,1.5,2.5,38.0,2
+2019,13,Belgian Grand Prix,Haas,10.5,12.5,0.0,2
+2019,13,Belgian Grand Prix,McLaren,14.5,15.0,0.0,2
+2019,13,Belgian Grand Prix,Mercedes,3.5,2.5,33.0,2
+2019,13,Belgian Grand Prix,RB/AlphaTauri/Toro Rosso,17.0,8.0,8.0,2
+2019,13,Belgian Grand Prix,Red Bull Racing,9.5,12.5,10.0,2
+2019,13,Belgian Grand Prix,Sauber/Alfa Romeo,11.5,17.0,0.0,2
+2019,13,Belgian Grand Prix,Williams,19.5,16.0,0.0,2
+2019,14,Italian Grand Prix,Alpine/Renault,5.5,4.5,22.0,2
+2019,14,Italian Grand Prix,Aston Martin/Racing Point/Force India,13.0,9.5,6.0,2
+2019,14,Italian Grand Prix,Ferrari,2.5,7.0,25.0,2
+2019,14,Italian Grand Prix,Haas,14.0,17.0,0.0,2
+2019,14,Italian Grand Prix,McLaren,10.5,15.0,1.0,2
+2019,14,Italian Grand Prix,Mercedes,2.5,2.5,34.0,2
+2019,14,Italian Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,15.0,0.0,2
+2019,14,Italian Grand Prix,Red Bull Racing,14.0,7.0,12.0,2
+2019,14,Italian Grand Prix,Sauber/Alfa Romeo,10.5,12.0,2.0,2
+2019,14,Italian Grand Prix,Williams,18.5,15.5,0.0,2
+2019,15,Singapore Grand Prix,Alpine/Renault,14.0,11.5,2.0,2
+2019,15,Singapore Grand Prix,Aston Martin/Racing Point/Force India,13.0,16.0,0.0,2
+2019,15,Singapore Grand Prix,Ferrari,2.0,1.5,43.0,2
+2019,15,Singapore Grand Prix,Haas,15.5,14.0,0.0,2
+2019,15,Singapore Grand Prix,McLaren,8.0,9.5,6.0,2
+2019,15,Singapore Grand Prix,Mercedes,3.5,4.5,22.0,2
+2019,15,Singapore Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,11.5,4.0,2
+2019,15,Singapore Grand Prix,Red Bull Racing,5.0,4.5,23.0,2
+2019,15,Singapore Grand Prix,Sauber/Alfa Romeo,12.0,14.0,1.0,2
+2019,15,Singapore Grand Prix,Williams,18.5,18.0,0.0,2
+2019,16,Russian Grand Prix,Alpine/Renault,8.5,14.5,1.0,2
+2019,16,Russian Grand Prix,Aston Martin/Racing Point/Force India,13.5,9.0,6.0,2
+2019,16,Russian Grand Prix,Ferrari,2.0,10.5,15.0,2
+2019,16,Russian Grand Prix,Haas,11.5,14.5,2.0,2
+2019,16,Russian Grand Prix,McLaren,7.0,7.0,12.0,2
+2019,16,Russian Grand Prix,Mercedes,3.5,1.5,44.0,2
+2019,16,Russian Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,13.0,0.0,2
+2019,16,Russian Grand Prix,Red Bull Racing,11.5,4.5,22.0,2
+2019,16,Russian Grand Prix,Sauber/Alfa Romeo,14.5,14.0,0.0,2
+2019,16,Russian Grand Prix,Williams,17.5,16.5,0.0,2
+2019,17,Japanese Grand Prix,Alpine/Renault,15.5,19.5,0.0,2
+2019,17,Japanese Grand Prix,Aston Martin/Racing Point/Force India,14.5,8.5,6.0,2
+2019,17,Japanese Grand Prix,Ferrari,1.5,4.0,26.0,2
+2019,17,Japanese Grand Prix,Haas,14.5,14.0,0.0,2
+2019,17,Japanese Grand Prix,McLaren,7.5,8.0,10.0,2
+2019,17,Japanese Grand Prix,Mercedes,3.5,2.0,41.0,2
+2019,17,Japanese Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,8.5,7.0,2
+2019,17,Japanese Grand Prix,Red Bull Racing,5.5,11.0,12.0,2
+2019,17,Japanese Grand Prix,Sauber/Alfa Romeo,12.0,13.0,0.0,2
+2019,17,Japanese Grand Prix,Williams,19.0,16.5,0.0,2
+2019,18,Mexican Grand Prix,Alpine/Renault,12.5,9.0,5.0,2
+2019,18,Mexican Grand Prix,Aston Martin/Racing Point/Force India,13.5,9.5,6.0,2
+2019,18,Mexican Grand Prix,Ferrari,2.5,3.0,31.0,2
+2019,18,Mexican Grand Prix,Haas,17.5,16.0,0.0,2
+2019,18,Mexican Grand Prix,McLaren,7.5,16.5,0.0,2
+2019,18,Mexican Grand Prix,Mercedes,5.0,2.0,40.0,2
+2019,18,Mexican Grand Prix,RB/AlphaTauri/Toro Rosso,9.5,10.0,2.0,2
+2019,18,Mexican Grand Prix,Red Bull Racing,3.0,5.5,18.0,2
+2019,18,Mexican Grand Prix,Sauber/Alfa Romeo,14.5,16.5,0.0,2
+2019,18,Mexican Grand Prix,Williams,19.5,17.0,0.0,2
+2019,19,United States Grand Prix,Alpine/Renault,10.0,7.5,10.0,2
+2019,19,United States Grand Prix,Aston Martin/Racing Point/Force India,16.5,11.5,1.0,2
+2019,19,United States Grand Prix,Ferrari,3.0,12.0,13.0,2
+2019,19,United States Grand Prix,Haas,13.5,16.5,0.0,2
+2019,19,United States Grand Prix,McLaren,7.5,7.5,10.0,2
+2019,19,United States Grand Prix,Mercedes,3.0,1.5,43.0,2
+2019,19,United States Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,14.0,0.0,2
+2019,19,United States Grand Prix,Red Bull Racing,4.5,4.0,25.0,2
+2019,19,United States Grand Prix,Sauber/Alfa Romeo,16.5,12.5,0.0,2
+2019,19,United States Grand Prix,Williams,19.0,18.0,0.0,2
+2019,20,Brazilian Grand Prix,Alpine/Renault,13.0,10.5,8.0,2
+2019,20,Brazilian Grand Prix,Aston Martin/Racing Point/Force India,16.0,14.0,2.0,2
+2019,20,Brazilian Grand Prix,Ferrari,3.0,17.5,0.0,2
+2019,20,Brazilian Grand Prix,Haas,9.0,12.0,0.0,2
+2019,20,Brazilian Grand Prix,McLaren,15.5,5.5,19.0,2
+2019,20,Brazilian Grand Prix,Mercedes,4.0,13.5,6.0,2
+2019,20,Brazilian Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,6.0,19.0,2
+2019,20,Brazilian Grand Prix,Red Bull Racing,3.5,7.5,25.0,2
+2019,20,Brazilian Grand Prix,Sauber/Alfa Romeo,11.0,4.5,22.0,2
+2019,20,Brazilian Grand Prix,Williams,18.5,14.0,0.0,2
+2019,21,Abu Dhabi Grand Prix,Alpine/Renault,9.0,11.5,0.0,2
+2019,21,Abu Dhabi Grand Prix,Aston Martin/Racing Point/Force India,12.0,13.5,6.0,2
+2019,21,Abu Dhabi Grand Prix,Ferrari,4.5,4.0,25.0,2
+2019,21,Abu Dhabi Grand Prix,Haas,15.5,14.5,0.0,2
+2019,21,Abu Dhabi Grand Prix,McLaren,8.0,9.0,5.0,2
+2019,21,Abu Dhabi Grand Prix,Mercedes,1.5,2.5,38.0,2
+2019,21,Abu Dhabi Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,13.5,2.0,2
+2019,21,Abu Dhabi Grand Prix,Red Bull Racing,4.5,4.0,26.0,2
+2019,21,Abu Dhabi Grand Prix,Sauber/Alfa Romeo,17.5,14.5,0.0,2
+2019,21,Abu Dhabi Grand Prix,Williams,19.5,18.0,0.0,2
+2020,1,Austrian Grand Prix,Alpine/Renault,12.0,13.5,4.0,2
+2020,1,Austrian Grand Prix,Aston Martin/Racing Point/Force India,7.5,12.0,8.0,2
+2020,1,Austrian Grand Prix,Ferrari,9.0,6.0,19.0,2
+2020,1,Austrian Grand Prix,Haas,15.5,16.5,0.0,2
+2020,1,Austrian Grand Prix,McLaren,6.0,4.0,26.0,2
+2020,1,Austrian Grand Prix,Mercedes,1.5,2.5,37.0,2
+2020,1,Austrian Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,9.5,6.0,2
+2020,1,Austrian Grand Prix,Red Bull Racing,4.0,16.5,0.0,2
+2020,1,Austrian Grand Prix,Sauber/Alfa Romeo,18.5,11.5,2.0,2
+2020,1,Austrian Grand Prix,Williams,18.5,13.0,0.0,2
+2020,2,Styrian Grand Prix,Alpine/Renault,7.0,13.0,4.0,2
+2020,2,Styrian Grand Prix,Aston Martin/Racing Point/Force India,15.0,6.5,14.0,2
+2020,2,Styrian Grand Prix,Ferrari,10.5,19.5,0.0,2
+2020,2,Styrian Grand Prix,Haas,17.5,12.5,0.0,2
+2020,2,Styrian Grand Prix,McLaren,4.5,7.0,13.0,2
+2020,2,Styrian Grand Prix,Mercedes,2.5,1.5,43.0,2
+2020,2,Styrian Grand Prix,RB/AlphaTauri/Toro Rosso,11.0,12.5,1.0,2
+2020,2,Styrian Grand Prix,Red Bull Racing,4.5,3.5,27.0,2
+2020,2,Styrian Grand Prix,Sauber/Alfa Romeo,17.5,12.5,0.0,2
+2020,2,Styrian Grand Prix,Williams,15.0,16.5,0.0,2
+2020,3,Hungarian Grand Prix,Alpine/Renault,12.5,11.0,4.0,2
+2020,3,Hungarian Grand Prix,Aston Martin/Racing Point/Force India,3.5,5.5,18.0,2
+2020,3,Hungarian Grand Prix,Ferrari,5.5,8.5,8.0,2
+2020,3,Hungarian Grand Prix,Haas,17.0,13.0,1.0,2
+2020,3,Hungarian Grand Prix,McLaren,8.5,11.0,2.0,2
+2020,3,Hungarian Grand Prix,Mercedes,1.5,2.0,41.0,2
+2020,3,Hungarian Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,16.0,0.0,2
+2020,3,Hungarian Grand Prix,Red Bull Racing,10.0,3.5,28.0,2
+2020,3,Hungarian Grand Prix,Sauber/Alfa Romeo,19.5,16.0,0.0,2
+2020,3,Hungarian Grand Prix,Williams,13.5,18.5,0.0,2
+2020,4,British Grand Prix,Alpine/Renault,8.5,5.0,20.0,2
+2020,4,British Grand Prix,Aston Martin/Racing Point/Force India,9.5,14.5,2.0,2
+2020,4,British Grand Prix,Ferrari,7.0,6.5,16.0,2
+2020,4,British Grand Prix,Haas,17.5,17.5,0.0,2
+2020,4,British Grand Prix,McLaren,6.0,9.0,10.0,2
+2020,4,British Grand Prix,Mercedes,1.5,6.0,25.0,2
+2020,4,British Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,12.5,6.0,2
+2020,4,British Grand Prix,Red Bull Racing,7.5,5.0,23.0,2
+2020,4,British Grand Prix,Sauber/Alfa Romeo,17.5,15.5,0.0,2
+2020,4,British Grand Prix,Williams,17.5,13.5,0.0,2
+2020,5,70th Anniversary Grand Prix,Alpine/Renault,8.0,11.0,4.0,2
+2020,5,70th Anniversary Grand Prix,Aston Martin/Racing Point/Force India,4.5,6.5,14.0,2
+2020,5,70th Anniversary Grand Prix,Ferrari,10.0,8.0,12.0,2
+2020,5,70th Anniversary Grand Prix,Haas,15.5,18.0,0.0,2
+2020,5,70th Anniversary Grand Prix,McLaren,11.5,11.0,2.0,2
+2020,5,70th Anniversary Grand Prix,Mercedes,1.5,2.5,34.0,2
+2020,5,70th Anniversary Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,10.5,1.0,2
+2020,5,70th Anniversary Grand Prix,Red Bull Racing,6.5,3.0,35.0,2
+2020,5,70th Anniversary Grand Prix,Sauber/Alfa Romeo,19.5,16.0,0.0,2
+2020,5,70th Anniversary Grand Prix,Williams,16.5,18.5,0.0,2
+2020,6,Spanish Grand Prix,Alpine/Renault,14.0,12.0,0.0,2
+2020,6,Spanish Grand Prix,Aston Martin/Racing Point/Force India,4.5,4.5,22.0,2
+2020,6,Spanish Grand Prix,Ferrari,10.0,13.5,6.0,2
+2020,6,Spanish Grand Prix,Haas,16.5,17.0,0.0,2
+2020,6,Spanish Grand Prix,McLaren,7.5,8.0,9.0,2
+2020,6,Spanish Grand Prix,Mercedes,1.5,2.0,41.0,2
+2020,6,Spanish Grand Prix,RB/AlphaTauri/Toro Rosso,11.0,10.5,2.0,2
+2020,6,Spanish Grand Prix,Red Bull Racing,4.5,5.0,22.0,2
+2020,6,Spanish Grand Prix,Sauber/Alfa Romeo,17.0,15.0,0.0,2
+2020,6,Spanish Grand Prix,Williams,18.5,17.5,0.0,2
+2020,7,Belgian Grand Prix,Alpine/Renault,5.0,4.5,23.0,2
+2020,7,Belgian Grand Prix,Aston Martin/Racing Point/Force India,8.5,9.5,3.0,2
+2020,7,Belgian Grand Prix,Ferrari,13.5,13.5,0.0,2
+2020,7,Belgian Grand Prix,Haas,18.5,16.0,0.0,2
+2020,7,Belgian Grand Prix,McLaren,8.5,13.5,6.0,2
+2020,7,Belgian Grand Prix,Mercedes,1.5,1.5,43.0,2
+2020,7,Belgian Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,9.5,4.0,2
+2020,7,Belgian Grand Prix,Red Bull Racing,4.0,4.5,23.0,2
+2020,7,Belgian Grand Prix,Sauber/Alfa Romeo,17.0,15.0,0.0,2
+2020,7,Belgian Grand Prix,Williams,17.0,17.5,0.0,2
+2020,8,Italian Grand Prix,Alpine/Renault,9.5,7.0,12.0,2
+2020,8,Italian Grand Prix,Aston Martin/Racing Point/Force India,6.0,6.5,16.0,2
+2020,8,Italian Grand Prix,Ferrari,15.0,19.0,0.0,2
+2020,8,Italian Grand Prix,Haas,15.5,15.5,0.0,2
+2020,8,Italian Grand Prix,McLaren,4.5,3.0,30.0,2
+2020,8,Italian Grand Prix,Mercedes,1.5,6.0,17.0,2
+2020,8,Italian Grand Prix,RB/AlphaTauri/Toro Rosso,10.5,5.0,27.0,2
+2020,8,Italian Grand Prix,Red Bull Racing,7.0,16.0,0.0,2
+2020,8,Italian Grand Prix,Sauber/Alfa Romeo,16.0,14.5,0.0,2
+2020,8,Italian Grand Prix,Williams,19.5,12.5,0.0,2
+2020,9,Tuscan Grand Prix,Alpine/Renault,9.0,9.0,12.0,2
+2020,9,Tuscan Grand Prix,Aston Martin/Racing Point/Force India,6.5,9.0,10.0,2
+2020,9,Tuscan Grand Prix,Ferrari,9.5,9.0,5.0,2
+2020,9,Tuscan Grand Prix,Haas,17.5,14.0,0.0,2
+2020,9,Tuscan Grand Prix,McLaren,10.0,12.0,8.0,2
+2020,9,Tuscan Grand Prix,Mercedes,1.5,1.5,44.0,2
+2020,9,Tuscan Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,13.5,6.0,2
+2020,9,Tuscan Grand Prix,Red Bull Racing,3.5,11.0,15.0,2
+2020,9,Tuscan Grand Prix,Sauber/Alfa Romeo,15.0,13.0,2.0,2
+2020,9,Tuscan Grand Prix,Williams,18.5,13.0,0.0,2
+2020,10,Russian Grand Prix,Alpine/Renault,6.0,6.0,16.0,2
+2020,10,Russian Grand Prix,Aston Martin/Racing Point/Force India,8.5,12.0,12.0,2
+2020,10,Russian Grand Prix,Ferrari,13.0,9.5,8.0,2
+2020,10,Russian Grand Prix,Haas,17.0,14.5,0.0,2
+2020,10,Russian Grand Prix,McLaren,7.0,17.0,0.0,2
+2020,10,Russian Grand Prix,Mercedes,2.0,2.0,41.0,2
+2020,10,Russian Grand Prix,RB/AlphaTauri/Toro Rosso,10.5,8.5,6.0,2
+2020,10,Russian Grand Prix,Red Bull Racing,6.0,6.0,19.0,2
+2020,10,Russian Grand Prix,Sauber/Alfa Romeo,18.5,12.5,0.0,2
+2020,10,Russian Grand Prix,Williams,16.5,17.0,0.0,2
+2020,11,Eifel Grand Prix,Alpine/Renault,6.5,10.5,15.0,2
+2020,11,Eifel Grand Prix,Aston Martin/Racing Point/Force India,14.5,6.0,16.0,2
+2020,11,Eifel Grand Prix,Ferrari,7.5,9.0,6.0,2
+2020,11,Eifel Grand Prix,Haas,15.5,11.0,2.0,2
+2020,11,Eifel Grand Prix,McLaren,9.0,10.5,10.0,2
+2020,11,Eifel Grand Prix,Mercedes,1.5,10.0,25.0,2
+2020,11,Eifel Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,10.5,8.0,2
+2020,11,Eifel Grand Prix,Red Bull Racing,4.0,9.5,19.0,2
+2020,11,Eifel Grand Prix,Sauber/Alfa Romeo,16.5,11.0,1.0,2
+2020,11,Eifel Grand Prix,Williams,17.5,17.0,0.0,2
+2020,12,Portuguese Grand Prix,Alpine/Renault,10.5,8.5,6.0,2
+2020,12,Portuguese Grand Prix,Aston Martin/Racing Point/Force India,8.5,13.5,6.0,2
+2020,12,Portuguese Grand Prix,Ferrari,9.5,7.0,13.0,2
+2020,12,Portuguese Grand Prix,Haas,18.5,16.5,0.0,2
+2020,12,Portuguese Grand Prix,McLaren,7.5,9.5,8.0,2
+2020,12,Portuguese Grand Prix,Mercedes,1.5,1.5,44.0,2
+2020,12,Portuguese Grand Prix,RB/AlphaTauri/Toro Rosso,11.0,12.0,10.0,2
+2020,12,Portuguese Grand Prix,Red Bull Racing,4.5,7.5,15.0,2
+2020,12,Portuguese Grand Prix,Sauber/Alfa Romeo,16.5,13.0,0.0,2
+2020,12,Portuguese Grand Prix,Williams,17.0,16.0,0.0,2
+2020,13,Emilia Romagna Grand Prix,Alpine/Renault,8.5,11.0,15.0,2
+2020,13,Emilia Romagna Grand Prix,Aston Martin/Racing Point/Force India,13.0,9.5,8.0,2
+2020,13,Emilia Romagna Grand Prix,Ferrari,10.5,8.5,10.0,2
+2020,13,Emilia Romagna Grand Prix,Haas,16.5,16.0,0.0,2
+2020,13,Emilia Romagna Grand Prix,McLaren,9.5,7.5,10.0,2
+2020,13,Emilia Romagna Grand Prix,Mercedes,1.5,1.5,44.0,2
+2020,13,Emilia Romagna Grand Prix,RB/AlphaTauri/Toro Rosso,6.0,12.0,12.0,2
+2020,13,Emilia Romagna Grand Prix,Red Bull Racing,4.5,16.0,0.0,2
+2020,13,Emilia Romagna Grand Prix,Sauber/Alfa Romeo,19.0,9.5,3.0,2
+2020,13,Emilia Romagna Grand Prix,Williams,16.0,13.5,0.0,2
+2020,14,Turkish Grand Prix,Alpine/Renault,6.0,10.5,1.0,2
+2020,14,Turkish Grand Prix,Aston Martin/Racing Point/Force India,2.0,5.5,20.0,2
+2020,14,Turkish Grand Prix,Ferrari,13.0,3.5,27.0,2
+2020,14,Turkish Grand Prix,Haas,17.5,17.5,0.0,2
+2020,14,Turkish Grand Prix,McLaren,12.0,6.5,15.0,2
+2020,14,Turkish Grand Prix,Mercedes,7.5,7.5,25.0,2
+2020,14,Turkish Grand Prix,RB/AlphaTauri/Toro Rosso,16.0,12.5,0.0,2
+2020,14,Turkish Grand Prix,Red Bull Racing,3.0,6.5,14.0,2
+2020,14,Turkish Grand Prix,Sauber/Alfa Romeo,9.0,17.5,0.0,2
+2020,14,Turkish Grand Prix,Williams,19.0,17.5,0.0,2
+2020,15,Bahrain Grand Prix,Alpine/Renault,6.5,8.0,8.0,2
+2020,15,Bahrain Grand Prix,Aston Martin/Racing Point/Force India,9.0,18.5,0.0,2
+2020,15,Bahrain Grand Prix,Ferrari,11.5,11.5,1.0,2
+2020,15,Bahrain Grand Prix,Haas,18.5,18.5,0.0,2
+2020,15,Bahrain Grand Prix,McLaren,12.0,4.5,22.0,2
+2020,15,Bahrain Grand Prix,Mercedes,1.5,4.5,29.0,2
+2020,15,Bahrain Grand Prix,RB/AlphaTauri/Toro Rosso,9.0,8.5,8.0,2
+2020,15,Bahrain Grand Prix,Red Bull Racing,3.5,2.5,34.0,2
+2020,15,Bahrain Grand Prix,Sauber/Alfa Romeo,16.5,15.5,0.0,2
+2020,15,Bahrain Grand Prix,Williams,17.0,13.0,0.0,2
+2020,16,Sakhir Grand Prix,Alpine/Renault,9.0,3.5,28.0,2
+2020,16,Sakhir Grand Prix,Aston Martin/Racing Point/Force India,7.5,2.0,40.0,2
+2020,16,Sakhir Grand Prix,Ferrari,8.5,16.0,0.0,2
+2020,16,Sakhir Grand Prix,Haas,18.0,16.0,0.0,2
+2020,16,Sakhir Grand Prix,McLaren,11.5,7.0,13.0,2
+2020,16,Sakhir Grand Prix,Mercedes,1.5,8.5,7.0,2
+2020,16,Sakhir Grand Prix,RB/AlphaTauri/Toro Rosso,7.5,9.0,6.0,2
+2020,16,Sakhir Grand Prix,Red Bull Racing,7.5,12.5,8.0,2
+2020,16,Sakhir Grand Prix,Sauber/Alfa Romeo,16.5,13.5,0.0,2
+2020,16,Sakhir Grand Prix,Williams,17.5,17.0,0.0,2
+2020,17,Abu Dhabi Grand Prix,Alpine/Renault,11.5,8.0,9.0,2
+2020,17,Abu Dhabi Grand Prix,Aston Martin/Racing Point/Force India,11.5,15.0,1.0,2
+2020,17,Abu Dhabi Grand Prix,Ferrari,11.0,13.5,0.0,2
+2020,17,Abu Dhabi Grand Prix,Haas,18.0,18.5,0.0,2
+2020,17,Abu Dhabi Grand Prix,McLaren,5.0,5.5,18.0,2
+2020,17,Abu Dhabi Grand Prix,Mercedes,2.5,2.5,33.0,2
+2020,17,Abu Dhabi Grand Prix,RB/AlphaTauri/Toro Rosso,8.5,9.5,4.0,2
+2020,17,Abu Dhabi Grand Prix,Red Bull Racing,3.0,2.5,37.0,2
+2020,17,Abu Dhabi Grand Prix,Sauber/Alfa Romeo,15.0,14.0,0.0,2
+2020,17,Abu Dhabi Grand Prix,Williams,19.0,16.0,0.0,2
+2021,1,Bahrain Grand Prix,Alpine/Renault,12.5,16.0,0.0,2
+2021,1,Bahrain Grand Prix,Aston Martin/Racing Point/Force India,14.0,12.5,1.0,2
+2021,1,Bahrain Grand Prix,Ferrari,6.0,7.0,12.0,2
+2021,1,Bahrain Grand Prix,Haas,19.5,18.0,0.0,2
+2021,1,Bahrain Grand Prix,McLaren,6.5,5.5,18.0,2
+2021,1,Bahrain Grand Prix,Mercedes,2.5,2.0,41.0,2
+2021,1,Bahrain Grand Prix,RB/AlphaTauri/Toro Rosso,9.0,13.0,2.0,2
+2021,1,Bahrain Grand Prix,Red Bull Racing,6.0,3.5,28.0,2
+2021,1,Bahrain Grand Prix,Sauber/Alfa Romeo,13.0,11.5,0.0,2
+2021,1,Bahrain Grand Prix,Williams,16.0,16.0,0.0,2
+2021,2,Emilia Romagna Grand Prix,Alpine/Renault,12.0,9.5,3.0,2
+2021,2,Emilia Romagna Grand Prix,Aston Martin/Racing Point/Force India,11.5,11.5,4.0,2
+2021,2,Emilia Romagna Grand Prix,Ferrari,7.5,4.5,22.0,2
+2021,2,Emilia Romagna Grand Prix,Haas,18.5,16.5,0.0,2
+2021,2,Emilia Romagna Grand Prix,McLaren,6.5,4.5,23.0,2
+2021,2,Emilia Romagna Grand Prix,Mercedes,4.5,10.0,19.0,2
+2021,2,Emilia Romagna Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,9.5,6.0,2
+2021,2,Emilia Romagna Grand Prix,Red Bull Racing,2.5,6.0,25.0,2
+2021,2,Emilia Romagna Grand Prix,Sauber/Alfa Romeo,16.5,13.5,0.0,2
+2021,2,Emilia Romagna Grand Prix,Williams,13.0,19.5,0.0,2
+2021,3,Portuguese Grand Prix,Alpine/Renault,9.5,7.5,10.0,2
+2021,3,Portuguese Grand Prix,Aston Martin/Racing Point/Force India,13.5,13.5,0.0,2
+2021,3,Portuguese Grand Prix,Ferrari,6.5,8.5,8.0,2
+2021,3,Portuguese Grand Prix,Haas,19.5,18.0,0.0,2
+2021,3,Portuguese Grand Prix,McLaren,11.5,7.0,12.0,2
+2021,3,Portuguese Grand Prix,Mercedes,1.5,2.0,41.0,2
+2021,3,Portuguese Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,12.5,1.0,2
+2021,3,Portuguese Grand Prix,Red Bull Racing,3.5,3.0,30.0,2
+2021,3,Portuguese Grand Prix,Sauber/Alfa Romeo,13.5,16.0,0.0,2
+2021,3,Portuguese Grand Prix,Williams,14.5,17.0,0.0,2
+2021,4,Spanish Grand Prix,Alpine/Renault,7.5,13.0,2.0,2
+2021,4,Spanish Grand Prix,Aston Martin/Racing Point/Force India,12.0,12.0,0.0,2
+2021,4,Spanish Grand Prix,Ferrari,5.0,5.5,18.0,2
+2021,4,Spanish Grand Prix,Haas,19.0,18.5,0.0,2
+2021,4,Spanish Grand Prix,McLaren,8.0,7.0,12.0,2
+2021,4,Spanish Grand Prix,Mercedes,2.0,2.0,40.0,2
+2021,4,Spanish Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,15.0,1.0,2
+2021,4,Spanish Grand Prix,Red Bull Racing,5.0,3.5,29.0,2
+2021,4,Spanish Grand Prix,Sauber/Alfa Romeo,15.5,13.5,0.0,2
+2021,4,Spanish Grand Prix,Williams,17.0,15.0,0.0,2
+2021,5,Monaco Grand Prix,Alpine/Renault,14.0,11.0,2.0,2
+2021,5,Monaco Grand Prix,Aston Martin/Racing Point/Force India,10.5,6.5,14.0,2
+2021,5,Monaco Grand Prix,Ferrari,2.5,11.0,18.0,2
+2021,5,Monaco Grand Prix,Haas,19.0,17.5,0.0,2
+2021,5,Monaco Grand Prix,McLaren,8.5,7.5,15.0,2
+2021,5,Monaco Grand Prix,Mercedes,5.0,13.0,7.0,2
+2021,5,Monaco Grand Prix,RB/AlphaTauri/Toro Rosso,11.0,11.0,8.0,2
+2021,5,Monaco Grand Prix,Red Bull Racing,5.5,2.5,37.0,2
+2021,5,Monaco Grand Prix,Sauber/Alfa Romeo,12.0,10.5,1.0,2
+2021,5,Monaco Grand Prix,Williams,16.5,14.5,0.0,2
+2021,6,Azerbaijan Grand Prix,Alpine/Renault,10.5,13.0,8.0,2
+2021,6,Azerbaijan Grand Prix,Aston Martin/Racing Point/Force India,15.0,10.5,18.0,2
+2021,6,Azerbaijan Grand Prix,Ferrari,3.0,6.0,16.0,2
+2021,6,Azerbaijan Grand Prix,Haas,17.5,13.5,0.0,2
+2021,6,Azerbaijan Grand Prix,McLaren,9.5,7.0,12.0,2
+2021,6,Azerbaijan Grand Prix,Mercedes,6.0,13.5,0.0,2
+2021,6,Azerbaijan Grand Prix,RB/AlphaTauri/Toro Rosso,6.0,5.0,21.0,2
+2021,6,Azerbaijan Grand Prix,Red Bull Racing,5.0,9.5,25.0,2
+2021,6,Azerbaijan Grand Prix,Sauber/Alfa Romeo,17.0,10.5,1.0,2
+2021,6,Azerbaijan Grand Prix,Williams,15.5,16.5,0.0,2
+2021,7,French Grand Prix,Alpine/Renault,10.0,11.0,4.0,2
+2021,7,French Grand Prix,Aston Martin/Racing Point/Force India,15.5,9.5,3.0,2
+2021,7,French Grand Prix,Ferrari,6.0,13.5,0.0,2
+2021,7,French Grand Prix,Haas,16.5,19.5,0.0,2
+2021,7,French Grand Prix,McLaren,9.0,5.5,18.0,2
+2021,7,French Grand Prix,Mercedes,2.5,3.0,30.0,2
+2021,7,French Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,10.0,6.0,2
+2021,7,French Grand Prix,Red Bull Racing,2.5,2.0,41.0,2
+2021,7,French Grand Prix,Sauber/Alfa Romeo,15.0,16.0,0.0,2
+2021,7,French Grand Prix,Williams,15.0,15.0,0.0,2
+2021,8,Styrian Grand Prix,Alpine/Renault,13.0,11.5,2.0,2
+2021,8,Styrian Grand Prix,Aston Martin/Racing Point/Force India,12.0,10.0,4.0,2
+2021,8,Styrian Grand Prix,Ferrari,9.5,6.5,14.0,2
+2021,8,Styrian Grand Prix,Haas,19.5,17.0,0.0,2
+2021,8,Styrian Grand Prix,McLaren,8.5,9.0,10.0,2
+2021,8,Styrian Grand Prix,Mercedes,2.5,2.5,34.0,2
+2021,8,Styrian Grand Prix,RB/AlphaTauri/Toro Rosso,7.0,15.0,1.0,2
+2021,8,Styrian Grand Prix,Red Bull Racing,3.0,2.5,37.0,2
+2021,8,Styrian Grand Prix,Sauber/Alfa Romeo,16.5,13.0,0.0,2
+2021,8,Styrian Grand Prix,Williams,13.5,18.0,0.0,2
+2021,9,Austrian Grand Prix,Alpine/Renault,15.5,15.0,1.0,2
+2021,9,Austrian Grand Prix,Aston Martin/Racing Point/Force India,9.0,15.0,0.0,2
+2021,9,Austrian Grand Prix,Ferrari,11.5,6.5,14.0,2
+2021,9,Austrian Grand Prix,Haas,19.5,18.5,0.0,2
+2021,9,Austrian Grand Prix,McLaren,7.5,5.0,21.0,2
+2021,9,Austrian Grand Prix,Mercedes,4.5,3.0,30.0,2
+2021,9,Austrian Grand Prix,RB/AlphaTauri/Toro Rosso,6.5,10.5,2.0,2
+2021,9,Austrian Grand Prix,Red Bull Racing,2.0,3.5,34.0,2
+2021,9,Austrian Grand Prix,Sauber/Alfa Romeo,15.5,14.5,0.0,2
+2021,9,Austrian Grand Prix,Williams,13.5,13.5,0.0,2
+2021,10,British Grand Prix,Alpine/Renault,12.0,8.0,8.0,2
+2021,10,British Grand Prix,Aston Martin/Racing Point/Force India,12.5,13.5,4.0,2
+2021,10,British Grand Prix,Ferrari,6.5,4.0,26.0,2
+2021,10,British Grand Prix,Haas,19.5,17.5,0.0,2
+2021,10,British Grand Prix,McLaren,6.5,4.5,22.0,2
+2021,10,British Grand Prix,Mercedes,2.0,2.0,40.0,2
+2021,10,British Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,10.5,1.0,2
+2021,10,British Grand Prix,Red Bull Racing,3.5,18.0,0.0,2
+2021,10,British Grand Prix,Sauber/Alfa Romeo,15.5,14.0,0.0,2
+2021,10,British Grand Prix,Williams,13.0,13.0,0.0,2
+2021,11,Hungarian Grand Prix,Alpine/Renault,8.5,2.5,37.0,2
+2021,11,Hungarian Grand Prix,Aston Martin/Racing Point/Force India,11.0,19.5,0.0,2
+2021,11,Hungarian Grand Prix,Ferrari,11.0,10.5,15.0,2
+2021,11,Hungarian Grand Prix,Haas,19.5,13.0,0.0,2
+2021,11,Hungarian Grand Prix,McLaren,8.5,13.0,0.0,2
+2021,11,Hungarian Grand Prix,Mercedes,1.5,9.0,18.0,2
+2021,11,Hungarian Grand Prix,RB/AlphaTauri/Toro Rosso,10.5,5.5,19.0,2
+2021,11,Hungarian Grand Prix,Red Bull Racing,3.5,13.0,2.0,2
+2021,11,Hungarian Grand Prix,Sauber/Alfa Romeo,13.5,11.5,1.0,2
+2021,11,Hungarian Grand Prix,Williams,17.5,7.5,10.0,2
+2021,12,Belgian Grand Prix,Alpine/Renault,11.5,9.0,3.0,2
+2021,12,Belgian Grand Prix,Aston Martin/Racing Point/Force India,10.0,12.5,5.0,2
+2021,12,Belgian Grand Prix,Ferrari,12.0,9.0,2.5,2
+2021,12,Belgian Grand Prix,Haas,19.0,16.5,0.0,2
+2021,12,Belgian Grand Prix,McLaren,7.0,9.0,6.0,2
+2021,12,Belgian Grand Prix,Mercedes,5.5,7.5,7.5,2
+2021,12,Belgian Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,10.5,4.0,2
+2021,12,Belgian Grand Prix,Red Bull Racing,4.0,10.0,12.5,2
+2021,12,Belgian Grand Prix,Sauber/Alfa Romeo,17.5,15.5,0.0,2
+2021,12,Belgian Grand Prix,Williams,7.0,5.5,10.0,2
+2021,13,Dutch Grand Prix,Alpine/Renault,8.5,7.5,10.0,2
+2021,13,Dutch Grand Prix,Aston Martin/Racing Point/Force India,14.5,12.5,0.0,2
+2021,13,Dutch Grand Prix,Ferrari,5.5,6.0,16.0,2
+2021,13,Dutch Grand Prix,Haas,19.5,19.0,0.0,2
+2021,13,Dutch Grand Prix,McLaren,11.5,10.5,1.0,2
+2021,13,Dutch Grand Prix,Mercedes,2.5,2.5,34.0,2
+2021,13,Dutch Grand Prix,RB/AlphaTauri/Toro Rosso,9.5,11.5,12.0,2
+2021,13,Dutch Grand Prix,Red Bull Racing,8.5,4.5,29.0,2
+2021,13,Dutch Grand Prix,Sauber/Alfa Romeo,12.5,14.5,0.0,2
+2021,13,Dutch Grand Prix,Williams,12.5,16.5,0.0,2
+2021,14,Italian Grand Prix,Alpine/Renault,13.5,9.0,5.0,2
+2021,14,Italian Grand Prix,Aston Martin/Racing Point/Force India,11.5,9.5,6.0,2
+2021,14,Italian Grand Prix,Ferrari,7.5,5.0,20.0,2
+2021,14,Italian Grand Prix,Haas,19.0,15.5,0.0,2
+2021,14,Italian Grand Prix,McLaren,4.5,1.5,44.0,2
+2021,14,Italian Grand Prix,Mercedes,1.5,10.0,15.0,2
+2021,14,Italian Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,19.5,0.0,2
+2021,14,Italian Grand Prix,Red Bull Racing,6.0,11.5,10.0,2
+2021,14,Italian Grand Prix,Sauber/Alfa Romeo,14.5,13.5,0.0,2
+2021,14,Italian Grand Prix,Williams,15.5,10.0,2.0,2
+2021,15,Russian Grand Prix,Alpine/Renault,8.0,10.0,8.0,2
+2021,15,Russian Grand Prix,Aston Martin/Racing Point/Force India,9.5,11.5,0.0,2
+2021,15,Russian Grand Prix,Ferrari,8.5,9.0,15.0,2
+2021,15,Russian Grand Prix,Haas,18.0,19.0,0.0,2
+2021,15,Russian Grand Prix,McLaren,3.0,5.5,19.0,2
+2021,15,Russian Grand Prix,Mercedes,5.5,3.0,35.0,2
+2021,15,Russian Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,15.0,0.0,2
+2021,15,Russian Grand Prix,Red Bull Racing,14.5,5.5,20.0,2
+2021,15,Russian Grand Prix,Sauber/Alfa Romeo,17.0,12.0,4.0,2
+2021,15,Russian Grand Prix,Williams,8.5,14.5,1.0,2
+2021,16,Turkish Grand Prix,Alpine/Renault,9.0,13.0,1.0,2
+2021,16,Turkish Grand Prix,Aston Martin/Racing Point/Force India,10.0,13.5,2.0,2
+2021,16,Turkish Grand Prix,Ferrari,9.5,6.0,16.0,2
+2021,16,Turkish Grand Prix,Haas,17.0,19.5,0.0,2
+2021,16,Turkish Grand Prix,McLaren,12.0,10.0,6.0,2
+2021,16,Turkish Grand Prix,Mercedes,1.5,3.0,36.0,2
+2021,16,Turkish Grand Prix,RB/AlphaTauri/Toro Rosso,7.5,10.0,8.0,2
+2021,16,Turkish Grand Prix,Red Bull Racing,5.0,2.5,33.0,2
+2021,16,Turkish Grand Prix,Sauber/Alfa Romeo,18.5,11.5,0.0,2
+2021,16,Turkish Grand Prix,Williams,15.0,16.0,0.0,2
+2021,17,United States Grand Prix,Alpine/Renault,12.5,18.5,0.0,2
+2021,17,United States Grand Prix,Aston Martin/Racing Point/Force India,14.0,11.0,1.0,2
+2021,17,United States Grand Prix,Ferrari,5.5,5.5,18.0,2
+2021,17,United States Grand Prix,Haas,19.5,16.5,0.0,2
+2021,17,United States Grand Prix,McLaren,7.5,6.5,14.0,2
+2021,17,United States Grand Prix,Mercedes,3.0,4.0,27.0,2
+2021,17,United States Grand Prix,RB/AlphaTauri/Toro Rosso,9.5,14.5,2.0,2
+2021,17,United States Grand Prix,Red Bull Racing,2.0,2.0,40.0,2
+2021,17,United States Grand Prix,Sauber/Alfa Romeo,15.5,12.0,0.0,2
+2021,17,United States Grand Prix,Williams,16.0,14.5,0.0,2
+2021,18,Mexico City Grand Prix,Alpine/Renault,15.5,11.0,2.0,2
+2021,18,Mexico City Grand Prix,Aston Martin/Racing Point/Force India,15.5,10.5,6.0,2
+2021,18,Mexico City Grand Prix,Ferrari,7.0,5.5,18.0,2
+2021,18,Mexico City Grand Prix,Haas,18.5,18.5,0.0,2
+2021,18,Mexico City Grand Prix,McLaren,8.5,11.0,1.0,2
+2021,18,Mexico City Grand Prix,Mercedes,1.5,8.5,18.0,2
+2021,18,Mexico City Grand Prix,RB/AlphaTauri/Toro Rosso,7.0,12.0,12.0,2
+2021,18,Mexico City Grand Prix,Red Bull Racing,3.5,2.0,40.0,2
+2021,18,Mexico City Grand Prix,Sauber/Alfa Romeo,13.0,9.5,4.0,2
+2021,18,Mexico City Grand Prix,Williams,15.0,16.5,0.0,2
+2021,19,São Paulo Grand Prix,Alpine/Renault,10.5,8.5,6.0,2
+2021,19,São Paulo Grand Prix,Aston Martin/Racing Point/Force India,14.0,15.5,0.0,2
+2021,19,São Paulo Grand Prix,Ferrari,6.5,5.5,18.0,2
+2021,19,São Paulo Grand Prix,Haas,19.5,17.5,0.0,2
+2021,19,São Paulo Grand Prix,McLaren,8.5,14.5,1.0,2
+2021,19,São Paulo Grand Prix,Mercedes,2.0,2.0,40.0,2
+2021,19,São Paulo Grand Prix,RB/AlphaTauri/Toro Rosso,9.0,11.0,6.0,2
+2021,19,São Paulo Grand Prix,Red Bull Racing,3.0,3.0,31.0,2
+2021,19,São Paulo Grand Prix,Sauber/Alfa Romeo,14.5,13.0,0.0,2
+2021,19,São Paulo Grand Prix,Williams,17.5,14.5,0.0,2
+2021,20,Qatar Grand Prix,Alpine/Renault,7.0,4.0,25.0,2
+2021,20,Qatar Grand Prix,Aston Martin/Racing Point/Force India,11.0,8.0,9.0,2
+2021,20,Qatar Grand Prix,Ferrari,10.0,7.5,10.0,2
+2021,20,Qatar Grand Prix,Haas,19.5,17.0,0.0,2
+2021,20,Qatar Grand Prix,McLaren,10.0,10.5,2.0,2
+2021,20,Qatar Grand Prix,Mercedes,2.0,10.5,25.0,2
+2021,20,Qatar Grand Prix,RB/AlphaTauri/Toro Rosso,6.0,12.0,0.0,2
+2021,20,Qatar Grand Prix,Red Bull Racing,6.5,3.0,31.0,2
+2021,20,Qatar Grand Prix,Sauber/Alfa Romeo,17.0,14.5,0.0,2
+2021,20,Qatar Grand Prix,Williams,16.0,18.0,0.0,2
+2021,21,Saudi Arabian Grand Prix,Alpine/Renault,11.0,8.5,12.0,2
+2021,21,Saudi Arabian Grand Prix,Aston Martin/Racing Point/Force India,17.5,13.5,0.0,2
+2021,21,Saudi Arabian Grand Prix,Ferrari,9.5,7.5,10.0,2
+2021,21,Saudi Arabian Grand Prix,Haas,19.5,19.0,0.0,2
+2021,21,Saudi Arabian Grand Prix,McLaren,9.0,7.5,11.0,2
+2021,21,Saudi Arabian Grand Prix,Mercedes,1.5,2.0,41.0,2
+2021,21,Saudi Arabian Grand Prix,RB/AlphaTauri/Toro Rosso,7.0,10.0,8.0,2
+2021,21,Saudi Arabian Grand Prix,Red Bull Racing,4.0,9.5,18.0,2
+2021,21,Saudi Arabian Grand Prix,Sauber/Alfa Romeo,11.0,12.0,2.0,2
+2021,21,Saudi Arabian Grand Prix,Williams,15.0,15.5,0.0,2
+2021,22,Abu Dhabi Grand Prix,Alpine/Renault,10.0,8.5,6.0,2
+2021,22,Abu Dhabi Grand Prix,Aston Martin/Racing Point/Force India,14.0,12.0,0.0,2
+2021,22,Abu Dhabi Grand Prix,Ferrari,6.0,6.5,16.0,2
+2021,22,Abu Dhabi Grand Prix,Haas,19.5,14.0,0.0,2
+2021,22,Abu Dhabi Grand Prix,McLaren,6.5,9.5,6.0,2
+2021,22,Abu Dhabi Grand Prix,Mercedes,4.0,4.0,26.0,2
+2021,22,Abu Dhabi Grand Prix,RB/AlphaTauri/Toro Rosso,10.0,4.5,22.0,2
+2021,22,Abu Dhabi Grand Prix,Red Bull Racing,2.5,8.0,26.0,2
+2021,22,Abu Dhabi Grand Prix,Sauber/Alfa Romeo,16.0,18.0,0.0,2
+2021,22,Abu Dhabi Grand Prix,Williams,16.5,17.0,0.0,2
+2022,1,Bahrain Grand Prix,Alpine/Renault,9.5,8.0,8.0,2
+2022,1,Bahrain Grand Prix,Aston Martin/Racing Point/Force India,18.0,14.5,0.0,2
+2022,1,Bahrain Grand Prix,Ferrari,2.0,1.5,44.0,2
+2022,1,Bahrain Grand Prix,Haas,9.5,8.0,10.0,2
+2022,1,Bahrain Grand Prix,McLaren,15.5,14.5,0.0,2
+2022,1,Bahrain Grand Prix,Mercedes,7.0,3.5,27.0,2
+2022,1,Bahrain Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,14.0,4.0,2
+2022,1,Bahrain Grand Prix,Red Bull Racing,3.0,18.5,0.0,2
+2022,1,Bahrain Grand Prix,Sauber/Alfa Romeo,10.5,8.0,9.0,2
+2022,1,Bahrain Grand Prix,Williams,17.0,14.5,0.0,2
+2022,2,Saudi Arabian Grand Prix,Alpine/Renault,6.0,11.0,8.0,2
+2022,2,Saudi Arabian Grand Prix,Aston Martin/Racing Point/Force India,16.5,12.5,0.0,2
+2022,2,Saudi Arabian Grand Prix,Ferrari,2.5,2.5,34.0,2
+2022,2,Saudi Arabian Grand Prix,Haas,12.0,9.0,2.0,2
+2022,2,Saudi Arabian Grand Prix,McLaren,11.5,12.0,6.0,2
+2022,2,Saudi Arabian Grand Prix,Mercedes,11.0,7.5,11.0,2
+2022,2,Saudi Arabian Grand Prix,RB/AlphaTauri/Toro Rosso,14.5,13.5,4.0,2
+2022,2,Saudi Arabian Grand Prix,Red Bull Racing,2.5,2.5,37.0,2
+2022,2,Saudi Arabian Grand Prix,Sauber/Alfa Romeo,10.5,13.0,0.0,2
+2022,2,Saudi Arabian Grand Prix,Williams,18.0,16.0,0.0,2
+2022,3,Australian Grand Prix,Alpine/Renault,9.0,12.0,6.0,2
+2022,3,Australian Grand Prix,Aston Martin/Racing Point/Force India,19.0,15.5,0.0,2
+2022,3,Australian Grand Prix,Ferrari,5.0,10.5,26.0,2
+2022,3,Australian Grand Prix,Haas,16.0,13.5,0.0,2
+2022,3,Australian Grand Prix,McLaren,5.5,5.5,18.0,2
+2022,3,Australian Grand Prix,Mercedes,5.5,3.5,27.0,2
+2022,3,Australian Grand Prix,RB/AlphaTauri/Toro Rosso,12.0,12.0,2.0,2
+2022,3,Australian Grand Prix,Red Bull Racing,2.5,10.0,18.0,2
+2022,3,Australian Grand Prix,Sauber/Alfa Romeo,13.0,9.5,4.0,2
+2022,3,Australian Grand Prix,Williams,17.5,13.0,1.0,2
+2022,4,Emilia Romagna Grand Prix,Alpine/Renault,12.0,16.5,0.0,2
+2022,4,Emilia Romagna Grand Prix,Aston Martin/Racing Point/Force India,12.0,9.0,5.0,2
+2022,4,Emilia Romagna Grand Prix,Ferrari,6.0,13.0,8.0,2
+2022,4,Emilia Romagna Grand Prix,Haas,8.0,13.0,2.0,2
+2022,4,Emilia Romagna Grand Prix,McLaren,4.5,10.5,15.0,2
+2022,4,Emilia Romagna Grand Prix,Mercedes,12.0,8.5,12.0,2
+2022,4,Emilia Romagna Grand Prix,RB/AlphaTauri/Toro Rosso,16.5,9.5,6.0,2
+2022,4,Emilia Romagna Grand Prix,Red Bull Racing,4.0,1.5,44.0,2
+2022,4,Emilia Romagna Grand Prix,Sauber/Alfa Romeo,11.0,10.0,10.0,2
+2022,4,Emilia Romagna Grand Prix,Williams,19.0,13.5,0.0,2
+2022,5,Miami Grand Prix,Alpine/Renault,15.5,9.5,4.0,2
+2022,5,Miami Grand Prix,Aston Martin/Racing Point/Force India,11.5,13.5,1.0,2
+2022,5,Miami Grand Prix,Ferrari,1.5,2.5,33.0,2
+2022,5,Miami Grand Prix,Haas,15.5,15.5,0.0,2
+2022,5,Miami Grand Prix,McLaren,11.0,16.0,0.0,2
+2022,5,Miami Grand Prix,Mercedes,9.0,5.5,18.0,2
+2022,5,Miami Grand Prix,RB/AlphaTauri/Toro Rosso,8.0,15.0,0.0,2
+2022,5,Miami Grand Prix,Red Bull Racing,3.5,2.5,38.0,2
+2022,5,Miami Grand Prix,Sauber/Alfa Romeo,11.0,13.5,6.0,2
+2022,5,Miami Grand Prix,Williams,18.5,11.5,2.0,2
+2022,6,Spanish Grand Prix,Alpine/Renault,14.5,8.0,8.0,2
+2022,6,Spanish Grand Prix,Aston Martin/Racing Point/Force India,17.0,13.0,0.0,2
+2022,6,Spanish Grand Prix,Ferrari,2.0,12.0,12.0,2
+2022,6,Spanish Grand Prix,Haas,9.0,15.5,0.0,2
+2022,6,Spanish Grand Prix,McLaren,10.0,10.0,4.0,2
+2022,6,Spanish Grand Prix,Mercedes,5.0,4.0,25.0,2
+2022,6,Spanish Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,11.5,1.0,2
+2022,6,Spanish Grand Prix,Red Bull Racing,3.5,1.5,44.0,2
+2022,6,Spanish Grand Prix,Sauber/Alfa Romeo,11.0,12.5,8.0,2
+2022,6,Spanish Grand Prix,Williams,19.5,17.0,0.0,2
+2022,7,Monaco Grand Prix,Alpine/Renault,8.5,9.5,6.0,2
+2022,7,Monaco Grand Prix,Aston Martin/Racing Point/Force India,13.5,12.0,1.0,2
+2022,7,Monaco Grand Prix,Ferrari,1.5,3.0,30.0,2
+2022,7,Monaco Grand Prix,Haas,14.0,19.5,0.0,2
+2022,7,Monaco Grand Prix,McLaren,9.5,9.5,9.0,2
+2022,7,Monaco Grand Prix,Mercedes,7.0,6.5,14.0,2
+2022,7,Monaco Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,14.0,0.0,2
+2022,7,Monaco Grand Prix,Red Bull Racing,3.5,2.0,40.0,2
+2022,7,Monaco Grand Prix,Sauber/Alfa Romeo,16.0,12.5,2.0,2
+2022,7,Monaco Grand Prix,Williams,17.5,16.5,0.0,2
+2022,8,Azerbaijan Grand Prix,Alpine/Renault,11.5,8.5,7.0,2
+2022,8,Azerbaijan Grand Prix,Aston Martin/Racing Point/Force India,14.0,11.0,8.0,2
+2022,8,Azerbaijan Grand Prix,Ferrari,2.5,19.5,0.0,2
+2022,8,Azerbaijan Grand Prix,Haas,18.0,15.5,0.0,2
+2022,8,Azerbaijan Grand Prix,McLaren,11.5,8.5,6.0,2
+2022,8,Azerbaijan Grand Prix,Mercedes,6.0,3.5,27.0,2
+2022,8,Azerbaijan Grand Prix,RB/AlphaTauri/Toro Rosso,7.0,9.0,10.0,2
+2022,8,Azerbaijan Grand Prix,Red Bull Racing,2.5,1.5,44.0,2
+2022,8,Azerbaijan Grand Prix,Sauber/Alfa Romeo,14.5,14.5,0.0,2
+2022,8,Azerbaijan Grand Prix,Williams,17.5,13.5,0.0,2
+2022,9,Canadian Grand Prix,Alpine/Renault,4.5,7.5,10.0,2
+2022,9,Canadian Grand Prix,Aston Martin/Racing Point/Force India,17.5,11.0,1.0,2
+2022,9,Canadian Grand Prix,Ferrari,9.0,3.5,29.0,2
+2022,9,Canadian Grand Prix,Haas,5.5,18.0,0.0,2
+2022,9,Canadian Grand Prix,McLaren,11.5,13.0,0.0,2
+2022,9,Canadian Grand Prix,Mercedes,6.0,3.5,27.0,2
+2022,9,Canadian Grand Prix,RB/AlphaTauri/Toro Rosso,18.0,16.0,0.0,2
+2022,9,Canadian Grand Prix,Red Bull Racing,7.0,10.5,25.0,2
+2022,9,Canadian Grand Prix,Sauber/Alfa Romeo,10.5,7.5,10.0,2
+2022,9,Canadian Grand Prix,Williams,15.5,14.5,0.0,2
+2022,10,British Grand Prix,Alpine/Renault,11.0,10.0,10.0,2
+2022,10,British Grand Prix,Aston Martin/Racing Point/Force India,19.0,10.0,2.0,2
+2022,10,British Grand Prix,Ferrari,2.0,2.5,37.0,2
+2022,10,British Grand Prix,Haas,18.0,9.0,5.0,2
+2022,10,British Grand Prix,McLaren,10.0,9.5,8.0,2
+2022,10,British Grand Prix,Mercedes,6.5,10.5,16.0,2
+2022,10,British Grand Prix,RB/AlphaTauri/Toro Rosso,12.0,15.0,0.0,2
+2022,10,British Grand Prix,Red Bull Racing,3.0,4.5,24.0,2
+2022,10,British Grand Prix,Sauber/Alfa Romeo,10.5,18.0,0.0,2
+2022,10,British Grand Prix,Williams,13.0,16.0,0.0,2
+2022,11,Austrian Grand Prix,Alpine/Renault,6.5,7.5,11.0,2
+2022,11,Austrian Grand Prix,Aston Martin/Racing Point/Force India,18.5,15.0,0.0,2
+2022,11,Austrian Grand Prix,Ferrari,2.5,9.5,25.0,2
+2022,11,Austrian Grand Prix,Haas,6.5,7.0,12.0,2
+2022,11,Austrian Grand Prix,McLaren,15.5,8.0,8.0,2
+2022,11,Austrian Grand Prix,Mercedes,6.5,3.5,27.0,2
+2022,11,Austrian Grand Prix,RB/AlphaTauri/Toro Rosso,12.0,15.5,0.0,2
+2022,11,Austrian Grand Prix,Red Bull Racing,7.0,11.0,19.0,2
+2022,11,Austrian Grand Prix,Sauber/Alfa Romeo,15.0,12.5,0.0,2
+2022,11,Austrian Grand Prix,Williams,15.0,15.5,0.0,2
+2022,12,French Grand Prix,Alpine/Renault,9.5,7.0,12.0,2
+2022,12,French Grand Prix,Aston Martin/Racing Point/Force India,15.5,10.5,1.0,2
+2022,12,French Grand Prix,Ferrari,5.0,12.0,11.0,2
+2022,12,French Grand Prix,Haas,14.5,16.5,0.0,2
+2022,12,French Grand Prix,McLaren,8.0,8.0,8.0,2
+2022,12,French Grand Prix,Mercedes,5.0,2.5,33.0,2
+2022,12,French Grand Prix,RB/AlphaTauri/Toro Rosso,12.0,16.0,0.0,2
+2022,12,French Grand Prix,Red Bull Racing,2.5,2.5,37.0,2
+2022,12,French Grand Prix,Sauber/Alfa Romeo,15.5,15.0,0.0,2
+2022,12,French Grand Prix,Williams,17.5,15.0,0.0,2
+2022,13,Hungarian Grand Prix,Alpine/Renault,5.5,8.5,6.0,2
+2022,13,Hungarian Grand Prix,Aston Martin/Racing Point/Force India,16.0,10.5,1.0,2
+2022,13,Hungarian Grand Prix,Ferrari,2.5,5.0,20.0,2
+2022,13,Hungarian Grand Prix,Haas,14.0,15.0,0.0,2
+2022,13,Hungarian Grand Prix,McLaren,6.5,11.0,6.0,2
+2022,13,Hungarian Grand Prix,Mercedes,4.0,2.5,34.0,2
+2022,13,Hungarian Grand Prix,RB/AlphaTauri/Toro Rosso,17.5,15.5,0.0,2
+2022,13,Hungarian Grand Prix,Red Bull Racing,10.5,3.0,35.0,2
+2022,13,Hungarian Grand Prix,Sauber/Alfa Romeo,10.0,16.5,0.0,2
+2022,13,Hungarian Grand Prix,Williams,18.5,17.5,0.0,2
+2022,14,Belgian Grand Prix,Alpine/Renault,5.5,6.0,16.0,2
+2022,14,Belgian Grand Prix,Aston Martin/Racing Point/Force India,15.0,9.5,4.0,2
+2022,14,Belgian Grand Prix,Ferrari,3.0,4.5,23.0,2
+2022,14,Belgian Grand Prix,Haas,16.5,16.5,0.0,2
+2022,14,Belgian Grand Prix,McLaren,10.5,13.5,0.0,2
+2022,14,Belgian Grand Prix,Mercedes,7.5,12.0,12.0,2
+2022,14,Belgian Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,11.0,2.0,2
+2022,14,Belgian Grand Prix,Red Bull Racing,2.0,1.5,44.0,2
+2022,14,Belgian Grand Prix,Sauber/Alfa Romeo,16.5,16.5,0.0,2
+2022,14,Belgian Grand Prix,Williams,13.0,14.0,1.0,2
+2022,15,Dutch Grand Prix,Alpine/Renault,12.5,7.5,10.0,2
+2022,15,Dutch Grand Prix,Aston Martin/Racing Point/Force India,14.5,12.0,1.0,2
+2022,15,Dutch Grand Prix,Ferrari,2.5,5.5,19.0,2
+2022,15,Dutch Grand Prix,Haas,13.0,14.0,0.0,2
+2022,15,Dutch Grand Prix,McLaren,12.0,12.0,6.0,2
+2022,15,Dutch Grand Prix,Mercedes,5.0,3.0,30.0,2
+2022,15,Dutch Grand Prix,RB/AlphaTauri/Toro Rosso,10.0,15.5,0.0,2
+2022,15,Dutch Grand Prix,Red Bull Racing,3.0,3.0,36.0,2
+2022,15,Dutch Grand Prix,Sauber/Alfa Romeo,15.0,17.5,0.0,2
+2022,15,Dutch Grand Prix,Williams,17.5,15.0,0.0,2
+2022,16,Italian Grand Prix,Alpine/Renault,10.5,15.0,0.0,2
+2022,16,Italian Grand Prix,Aston Martin/Racing Point/Force India,17.5,19.0,0.0,2
+2022,16,Italian Grand Prix,Ferrari,2.0,3.0,30.0,2
+2022,16,Italian Grand Prix,Haas,19.5,14.0,0.0,2
+2022,16,Italian Grand Prix,McLaren,7.5,12.0,6.0,2
+2022,16,Italian Grand Prix,Mercedes,5.5,4.0,25.0,2
+2022,16,Italian Grand Prix,RB/AlphaTauri/Toro Rosso,12.0,11.0,4.0,2
+2022,16,Italian Grand Prix,Red Bull Racing,3.0,3.5,34.0,2
+2022,16,Italian Grand Prix,Sauber/Alfa Romeo,13.0,11.5,1.0,2
+2022,16,Italian Grand Prix,Williams,14.5,12.0,2.0,2
+2022,17,Singapore Grand Prix,Alpine/Renault,11.5,17.0,0.0,2
+2022,17,Singapore Grand Prix,Aston Martin/Racing Point/Force India,13.0,7.0,12.0,2
+2022,17,Singapore Grand Prix,Ferrari,2.5,2.5,33.0,2
+2022,17,Singapore Grand Prix,Haas,11.0,12.5,0.0,2
+2022,17,Singapore Grand Prix,McLaren,11.5,4.5,22.0,2
+2022,17,Singapore Grand Prix,Mercedes,7.0,11.5,2.0,2
+2022,17,Singapore Grand Prix,RB/AlphaTauri/Toro Rosso,8.5,12.5,1.0,2
+2022,17,Singapore Grand Prix,Red Bull Racing,5.0,4.0,31.0,2
+2022,17,Singapore Grand Prix,Sauber/Alfa Romeo,15.5,15.5,0.0,2
+2022,17,Singapore Grand Prix,Williams,19.5,18.0,0.0,2
+2022,18,Japanese Grand Prix,Alpine/Renault,6.0,5.5,18.0,2
+2022,18,Japanese Grand Prix,Aston Martin/Racing Point/Force India,14.0,9.0,8.0,2
+2022,18,Japanese Grand Prix,Ferrari,2.5,11.0,15.0,2
+2022,18,Japanese Grand Prix,Haas,16.5,15.5,0.0,2
+2022,18,Japanese Grand Prix,McLaren,10.5,10.5,1.0,2
+2022,18,Japanese Grand Prix,Mercedes,7.0,6.5,14.0,2
+2022,18,Japanese Grand Prix,RB/AlphaTauri/Toro Rosso,15.0,15.5,0.0,2
+2022,18,Japanese Grand Prix,Red Bull Racing,2.5,1.5,43.0,2
+2022,18,Japanese Grand Prix,Sauber/Alfa Romeo,13.0,15.5,0.0,2
+2022,18,Japanese Grand Prix,Williams,18.0,14.5,2.0,2
+2022,19,United States Grand Prix,Alpine/Renault,13.5,9.0,6.0,2
+2022,19,United States Grand Prix,Aston Martin/Racing Point/Force India,9.5,13.0,4.0,2
+2022,19,United States Grand Prix,Ferrari,1.5,11.5,15.0,2
+2022,19,United States Grand Prix,Haas,17.5,12.0,2.0,2
+2022,19,United States Grand Prix,McLaren,12.5,11.0,8.0,2
+2022,19,United States Grand Prix,Mercedes,5.5,3.5,29.0,2
+2022,19,United States Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,12.0,1.0,2
+2022,19,United States Grand Prix,Red Bull Racing,3.5,2.5,37.0,2
+2022,19,United States Grand Prix,Sauber/Alfa Romeo,12.0,15.5,0.0,2
+2022,19,United States Grand Prix,Williams,15.5,15.0,0.0,2
+2022,20,Mexico City Grand Prix,Alpine/Renault,9.5,13.5,4.0,2
+2022,20,Mexico City Grand Prix,Aston Martin/Racing Point/Force India,17.5,14.5,0.0,2
+2022,20,Mexico City Grand Prix,Ferrari,6.0,5.5,18.0,2
+2022,20,Mexico City Grand Prix,Haas,15.5,16.5,0.0,2
+2022,20,Mexico City Grand Prix,McLaren,9.5,8.0,8.0,2
+2022,20,Mexico City Grand Prix,Mercedes,2.5,3.0,31.0,2
+2022,20,Mexico City Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,15.5,0.0,2
+2022,20,Mexico City Grand Prix,Red Bull Racing,2.5,2.0,40.0,2
+2022,20,Mexico City Grand Prix,Sauber/Alfa Romeo,9.0,11.5,1.0,2
+2022,20,Mexico City Grand Prix,Williams,19.5,15.0,0.0,2
+2022,21,São Paulo Grand Prix,Alpine/Renault,6.5,6.5,14.0,2
+2022,21,São Paulo Grand Prix,Aston Martin/Racing Point/Force India,14.0,10.5,1.0,2
+2022,21,São Paulo Grand Prix,Ferrari,7.5,3.5,27.0,2
+2022,21,São Paulo Grand Prix,Haas,10.5,16.0,0.0,2
+2022,21,São Paulo Grand Prix,McLaren,9.0,19.0,0.0,2
+2022,21,São Paulo Grand Prix,Mercedes,5.5,1.5,44.0,2
+2022,21,São Paulo Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,15.5,0.0,2
+2022,21,São Paulo Grand Prix,Red Bull Racing,5.5,6.5,14.0,2
+2022,21,São Paulo Grand Prix,Sauber/Alfa Romeo,17.5,10.5,2.0,2
+2022,21,São Paulo Grand Prix,Williams,13.5,15.5,0.0,2
+2022,22,Abu Dhabi Grand Prix,Alpine/Renault,9.5,13.5,6.0,2
+2022,22,Abu Dhabi Grand Prix,Aston Martin/Racing Point/Force India,11.5,9.0,5.0,2
+2022,22,Abu Dhabi Grand Prix,Ferrari,3.5,3.0,30.0,2
+2022,22,Abu Dhabi Grand Prix,Haas,14.5,16.5,0.0,2
+2022,22,Abu Dhabi Grand Prix,McLaren,8.5,7.5,11.0,2
+2022,22,Abu Dhabi Grand Prix,Mercedes,5.5,11.5,10.0,2
+2022,22,Abu Dhabi Grand Prix,RB/AlphaTauri/Toro Rosso,14.5,12.5,0.0,2
+2022,22,Abu Dhabi Grand Prix,Red Bull Racing,1.5,2.0,40.0,2
+2022,22,Abu Dhabi Grand Prix,Sauber/Alfa Romeo,16.5,13.5,0.0,2
+2022,22,Abu Dhabi Grand Prix,Williams,19.5,16.0,0.0,2
+2023,1,Bahrain Grand Prix,Alpine/Renault,14.5,13.5,2.0,2
+2023,1,Bahrain Grand Prix,Aston Martin/Racing Point/Force India,6.5,4.5,23.0,2
+2023,1,Bahrain Grand Prix,Ferrari,3.5,11.5,12.0,2
+2023,1,Bahrain Grand Prix,Haas,13.5,14.0,0.0,2
+2023,1,Bahrain Grand Prix,McLaren,14.5,18.5,0.0,2
+2023,1,Bahrain Grand Prix,Mercedes,6.5,6.0,16.0,2
+2023,1,Bahrain Grand Prix,RB/AlphaTauri/Toro Rosso,16.5,12.5,0.0,2
+2023,1,Bahrain Grand Prix,Red Bull Racing,1.5,1.5,43.0,2
+2023,1,Bahrain Grand Prix,Sauber/Alfa Romeo,12.5,12.0,4.0,2
+2023,1,Bahrain Grand Prix,Williams,15.5,11.0,1.0,2
+2023,2,Saudi Arabian Grand Prix,Alpine/Renault,8.5,8.5,6.0,2
+2023,2,Saudi Arabian Grand Prix,Aston Martin/Racing Point/Force India,4.5,11.5,15.0,2
+2023,2,Saudi Arabian Grand Prix,Ferrari,3.5,6.5,14.0,2
+2023,2,Saudi Arabian Grand Prix,Haas,12.0,11.0,1.0,2
+2023,2,Saudi Arabian Grand Prix,McLaren,14.0,16.0,0.0,2
+2023,2,Saudi Arabian Grand Prix,Mercedes,6.0,4.5,22.0,2
+2023,2,Saudi Arabian Grand Prix,RB/AlphaTauri/Toro Rosso,17.0,12.5,0.0,2
+2023,2,Saudi Arabian Grand Prix,Red Bull Racing,8.0,1.5,44.0,2
+2023,2,Saudi Arabian Grand Prix,Sauber/Alfa Romeo,13.0,15.5,0.0,2
+2023,2,Saudi Arabian Grand Prix,Williams,18.5,17.5,0.0,2
+2023,3,Australian Grand Prix,Alpine/Renault,10.0,13.5,0.0,2
+2023,3,Australian Grand Prix,Aston Martin/Racing Point/Force India,5.0,3.5,27.0,2
+2023,3,Australian Grand Prix,Ferrari,6.0,16.0,0.0,2
+2023,3,Australian Grand Prix,Haas,12.0,12.0,6.0,2
+2023,3,Australian Grand Prix,McLaren,14.5,7.0,12.0,2
+2023,3,Australian Grand Prix,Mercedes,2.5,10.0,18.0,2
+2023,3,Australian Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,12.5,1.0,2
+2023,3,Australian Grand Prix,Red Bull Racing,10.5,3.0,36.0,2
+2023,3,Australian Grand Prix,Sauber/Alfa Romeo,18.0,10.0,2.0,2
+2023,3,Australian Grand Prix,Williams,13.0,17.5,0.0,2
+2023,4,Azerbaijan Grand Prix,Alpine/Renault,15.5,14.5,0.0,2
+2023,4,Azerbaijan Grand Prix,Aston Martin/Racing Point/Force India,7.5,5.5,18.0,2
+2023,4,Azerbaijan Grand Prix,Ferrari,2.5,4.0,25.0,2
+2023,4,Azerbaijan Grand Prix,Haas,17.5,15.0,0.0,2
+2023,4,Azerbaijan Grand Prix,McLaren,8.5,10.0,2.0,2
+2023,4,Azerbaijan Grand Prix,Mercedes,8.0,7.0,13.0,2
+2023,4,Azerbaijan Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,15.0,1.0,2
+2023,4,Azerbaijan Grand Prix,Red Bull Racing,2.5,1.5,43.0,2
+2023,4,Azerbaijan Grand Prix,Sauber/Alfa Romeo,15.0,18.5,0.0,2
+2023,4,Azerbaijan Grand Prix,Williams,14.0,14.0,0.0,2
+2023,5,Miami Grand Prix,Alpine/Renault,6.5,8.5,6.0,2
+2023,5,Miami Grand Prix,Aston Martin/Racing Point/Force India,10.0,7.5,15.0,2
+2023,5,Miami Grand Prix,Ferrari,5.0,6.0,16.0,2
+2023,5,Miami Grand Prix,Haas,8.0,12.5,1.0,2
+2023,5,Miami Grand Prix,McLaren,17.5,18.0,0.0,2
+2023,5,Miami Grand Prix,Mercedes,9.5,5.0,20.0,2
+2023,5,Miami Grand Prix,RB/AlphaTauri/Toro Rosso,16.0,14.5,0.0,2
+2023,5,Miami Grand Prix,Red Bull Racing,5.0,1.5,44.0,2
+2023,5,Miami Grand Prix,Sauber/Alfa Romeo,12.0,14.5,0.0,2
+2023,5,Miami Grand Prix,Williams,15.5,17.0,0.0,2
+2023,6,Monaco Grand Prix,Alpine/Renault,5.5,5.0,21.0,2
+2023,6,Monaco Grand Prix,Aston Martin/Racing Point/Force India,8.0,11.0,18.0,2
+2023,6,Monaco Grand Prix,Ferrari,4.0,7.0,12.0,2
+2023,6,Monaco Grand Prix,Haas,17.5,18.0,0.0,2
+2023,6,Monaco Grand Prix,McLaren,10.5,9.5,3.0,2
+2023,6,Monaco Grand Prix,Mercedes,7.0,4.5,23.0,2
+2023,6,Monaco Grand Prix,RB/AlphaTauri/Toro Rosso,10.5,13.5,0.0,2
+2023,6,Monaco Grand Prix,Red Bull Racing,10.5,8.5,25.0,2
+2023,6,Monaco Grand Prix,Sauber/Alfa Romeo,17.0,12.0,0.0,2
+2023,6,Monaco Grand Prix,Williams,14.5,16.0,0.0,2
+2023,7,Spanish Grand Prix,Alpine/Renault,5.5,9.0,5.0,2
+2023,7,Spanish Grand Prix,Aston Martin/Racing Point/Force India,7.5,6.5,14.0,2
+2023,7,Spanish Grand Prix,Ferrari,10.5,8.0,10.0,2
+2023,7,Spanish Grand Prix,Haas,12.5,16.5,0.0,2
+2023,7,Spanish Grand Prix,McLaren,6.5,15.0,0.0,2
+2023,7,Spanish Grand Prix,Mercedes,8.5,2.5,33.0,2
+2023,7,Spanish Grand Prix,RB/AlphaTauri/Toro Rosso,14.5,13.0,0.0,2
+2023,7,Spanish Grand Prix,Red Bull Racing,6.0,2.5,38.0,2
+2023,7,Spanish Grand Prix,Sauber/Alfa Romeo,14.5,14.0,2.0,2
+2023,7,Spanish Grand Prix,Williams,19.0,18.0,0.0,2
+2023,8,Canadian Grand Prix,Alpine/Renault,11.5,10.0,4.0,2
+2023,8,Canadian Grand Prix,Aston Martin/Racing Point/Force India,8.0,5.5,20.0,2
+2023,8,Canadian Grand Prix,Ferrari,9.5,4.5,22.0,2
+2023,8,Canadian Grand Prix,Haas,8.0,16.0,0.0,2
+2023,8,Canadian Grand Prix,McLaren,8.0,12.0,0.0,2
+2023,8,Canadian Grand Prix,Mercedes,4.5,11.0,15.0,2
+2023,8,Canadian Grand Prix,RB/AlphaTauri/Toro Rosso,17.0,16.0,0.0,2
+2023,8,Canadian Grand Prix,Red Bull Racing,6.5,3.5,34.0,2
+2023,8,Canadian Grand Prix,Sauber/Alfa Romeo,17.5,13.0,1.0,2
+2023,8,Canadian Grand Prix,Williams,14.5,13.5,6.0,2
+2023,9,Austrian Grand Prix,Alpine/Renault,10.5,12.0,1.0,2
+2023,9,Austrian Grand Prix,Aston Martin/Racing Point/Force India,6.5,7.0,12.0,2
+2023,9,Austrian Grand Prix,Ferrari,2.5,4.0,26.0,2
+2023,9,Austrian Grand Prix,Haas,13.5,19.0,0.0,2
+2023,9,Austrian Grand Prix,McLaren,8.5,10.0,12.0,2
+2023,9,Austrian Grand Prix,Mercedes,8.0,7.5,10.0,2
+2023,9,Austrian Grand Prix,RB/AlphaTauri/Toro Rosso,18.0,18.0,0.0,2
+2023,9,Austrian Grand Prix,Red Bull Racing,8.0,2.0,41.0,2
+2023,9,Austrian Grand Prix,Sauber/Alfa Romeo,15.5,13.5,0.0,2
+2023,9,Austrian Grand Prix,Williams,14.0,12.0,0.0,2
+2023,10,British Grand Prix,Alpine/Renault,11.5,19.0,0.0,2
+2023,10,British Grand Prix,Aston Martin/Racing Point/Force India,10.5,10.5,6.0,2
+2023,10,British Grand Prix,Ferrari,4.5,9.5,3.0,2
+2023,10,British Grand Prix,Haas,15.0,16.0,0.0,2
+2023,10,British Grand Prix,McLaren,2.5,3.0,30.0,2
+2023,10,British Grand Prix,Mercedes,6.5,4.0,25.0,2
+2023,10,British Grand Prix,RB/AlphaTauri/Toro Rosso,17.0,16.5,0.0,2
+2023,10,British Grand Prix,Red Bull Racing,8.0,3.5,34.0,2
+2023,10,British Grand Prix,Sauber/Alfa Romeo,16.0,13.5,0.0,2
+2023,10,British Grand Prix,Williams,11.0,9.5,4.0,2
+2023,11,Hungarian Grand Prix,Alpine/Renault,13.5,19.5,0.0,2
+2023,11,Hungarian Grand Prix,Aston Martin/Racing Point/Force India,11.0,9.5,3.0,2
+2023,11,Hungarian Grand Prix,Ferrari,8.5,7.5,10.0,2
+2023,11,Hungarian Grand Prix,Haas,14.5,15.5,0.0,2
+2023,11,Hungarian Grand Prix,McLaren,3.5,3.5,28.0,2
+2023,11,Hungarian Grand Prix,Mercedes,9.5,5.0,20.0,2
+2023,11,Hungarian Grand Prix,RB/AlphaTauri/Toro Rosso,15.0,14.0,0.0,2
+2023,11,Hungarian Grand Prix,Red Bull Racing,5.5,2.0,41.0,2
+2023,11,Hungarian Grand Prix,Sauber/Alfa Romeo,6.0,14.0,0.0,2
+2023,11,Hungarian Grand Prix,Williams,18.0,14.5,0.0,2
+2023,12,Belgian Grand Prix,Alpine/Renault,13.5,9.5,4.0,2
+2023,12,Belgian Grand Prix,Aston Martin/Racing Point/Force India,9.5,7.0,12.0,2
+2023,12,Belgian Grand Prix,Ferrari,3.5,11.0,15.0,2
+2023,12,Belgian Grand Prix,Haas,16.5,16.5,0.0,2
+2023,12,Belgian Grand Prix,McLaren,6.5,13.5,6.0,2
+2023,12,Belgian Grand Prix,Mercedes,6.0,5.0,21.0,2
+2023,12,Belgian Grand Prix,RB/AlphaTauri/Toro Rosso,15.0,13.0,1.0,2
+2023,12,Belgian Grand Prix,Red Bull Racing,2.0,1.5,43.0,2
+2023,12,Belgian Grand Prix,Sauber/Alfa Romeo,15.5,12.5,0.0,2
+2023,12,Belgian Grand Prix,Williams,17.0,15.5,0.0,2
+2023,13,Dutch Grand Prix,Alpine/Renault,14.5,6.5,16.0,2
+2023,13,Dutch Grand Prix,Aston Martin/Racing Point/Force India,8.0,6.5,19.0,2
+2023,13,Dutch Grand Prix,Ferrari,7.5,12.0,10.0,2
+2023,13,Dutch Grand Prix,Haas,16.5,14.0,0.0,2
+2023,13,Dutch Grand Prix,McLaren,5.0,8.0,8.0,2
+2023,13,Dutch Grand Prix,Mercedes,8.0,11.5,8.0,2
+2023,13,Dutch Grand Prix,RB/AlphaTauri/Toro Rosso,17.0,14.0,0.0,2
+2023,13,Dutch Grand Prix,Red Bull Racing,4.0,2.5,37.0,2
+2023,13,Dutch Grand Prix,Sauber/Alfa Romeo,17.5,16.0,0.0,2
+2023,13,Dutch Grand Prix,Williams,7.0,14.0,4.0,2
+2023,14,Italian Grand Prix,Alpine/Renault,17.5,17.0,0.0,2
+2023,14,Italian Grand Prix,Aston Martin/Racing Point/Force India,15.0,12.5,2.0,2
+2023,14,Italian Grand Prix,Ferrari,2.0,3.5,27.0,2
+2023,14,Italian Grand Prix,Haas,16.0,17.5,0.0,2
+2023,14,Italian Grand Prix,McLaren,8.0,10.0,4.0,2
+2023,14,Italian Grand Prix,Mercedes,6.0,5.5,18.0,2
+2023,14,Italian Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,15.5,0.0,2
+2023,14,Italian Grand Prix,Red Bull Racing,3.5,1.5,43.0,2
+2023,14,Italian Grand Prix,Sauber/Alfa Romeo,15.0,12.0,1.0,2
+2023,14,Italian Grand Prix,Williams,10.5,10.0,6.0,2
+2023,15,Singapore Grand Prix,Alpine/Renault,10.0,12.0,8.0,2
+2023,15,Singapore Grand Prix,Aston Martin/Racing Point/Force India,13.5,15.0,0.0,2
+2023,15,Singapore Grand Prix,Ferrari,2.0,2.5,37.0,2
+2023,15,Singapore Grand Prix,Haas,7.5,11.5,1.0,2
+2023,15,Singapore Grand Prix,McLaren,10.5,4.5,24.0,2
+2023,15,Singapore Grand Prix,Mercedes,3.5,9.5,16.0,2
+2023,15,Singapore Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,14.0,2.0,2
+2023,15,Singapore Grand Prix,Red Bull Racing,12.0,6.5,14.0,2
+2023,15,Singapore Grand Prix,Sauber/Alfa Romeo,17.5,14.5,0.0,2
+2023,15,Singapore Grand Prix,Williams,16.0,12.5,0.0,2
+2023,16,Japanese Grand Prix,Alpine/Renault,13.0,9.5,3.0,2
+2023,16,Japanese Grand Prix,Aston Martin/Racing Point/Force India,13.5,13.0,4.0,2
+2023,16,Japanese Grand Prix,Ferrari,5.0,5.0,20.0,2
+2023,16,Japanese Grand Prix,Haas,16.5,14.5,0.0,2
+2023,16,Japanese Grand Prix,McLaren,2.5,2.5,33.0,2
+2023,16,Japanese Grand Prix,Mercedes,7.5,6.0,16.0,2
+2023,16,Japanese Grand Prix,RB/AlphaTauri/Toro Rosso,10.0,11.5,0.0,2
+2023,16,Japanese Grand Prix,Red Bull Racing,3.0,10.0,26.0,2
+2023,16,Japanese Grand Prix,Sauber/Alfa Romeo,17.5,16.5,0.0,2
+2023,16,Japanese Grand Prix,Williams,16.5,16.5,0.0,2
+2023,17,Qatar Grand Prix,Alpine/Renault,7.5,9.5,6.0,2
+2023,17,Qatar Grand Prix,Aston Martin/Racing Point/Force India,10.5,8.5,8.0,2
+2023,17,Qatar Grand Prix,Ferrari,8.5,12.5,10.0,2
+2023,17,Qatar Grand Prix,Haas,17.0,15.0,0.0,2
+2023,17,Qatar Grand Prix,McLaren,8.0,2.5,33.0,2
+2023,17,Qatar Grand Prix,Mercedes,2.5,11.5,12.0,2
+2023,17,Qatar Grand Prix,RB/AlphaTauri/Toro Rosso,14.5,16.0,0.0,2
+2023,17,Qatar Grand Prix,Red Bull Racing,7.0,5.5,27.0,2
+2023,17,Qatar Grand Prix,Sauber/Alfa Romeo,14.5,8.5,6.0,2
+2023,17,Qatar Grand Prix,Williams,15.0,15.5,0.0,2
+2023,18,United States Grand Prix,Alpine/Renault,7.5,12.0,8.0,2
+2023,18,United States Grand Prix,Aston Martin/Racing Point/Force India,18.0,11.5,6.0,2
+2023,18,United States Grand Prix,Ferrari,2.5,11.5,15.0,2
+2023,18,United States Grand Prix,Haas,15.0,12.5,0.0,2
+2023,18,United States Grand Prix,McLaren,6.0,9.5,18.0,2
+2023,18,United States Grand Prix,Mercedes,4.0,12.0,10.0,2
+2023,18,United States Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,11.5,5.0,2
+2023,18,United States Grand Prix,Red Bull Racing,7.5,2.5,37.0,2
+2023,18,United States Grand Prix,Sauber/Alfa Romeo,12.5,12.5,0.0,2
+2023,18,United States Grand Prix,Williams,19.0,9.5,3.0,2
+2023,19,Mexico City Grand Prix,Alpine/Renault,13.5,10.5,1.0,2
+2023,19,Mexico City Grand Prix,Aston Martin/Racing Point/Force India,15.5,17.5,0.0,2
+2023,19,Mexico City Grand Prix,Ferrari,1.5,3.5,27.0,2
+2023,19,Mexico City Grand Prix,Haas,14.5,16.0,0.0,2
+2023,19,Mexico City Grand Prix,McLaren,13.0,6.5,14.0,2
+2023,19,Mexico City Grand Prix,Mercedes,7.0,4.0,27.0,2
+2023,19,Mexico City Grand Prix,RB/AlphaTauri/Toro Rosso,9.5,9.5,6.0,2
+2023,19,Mexico City Grand Prix,Red Bull Racing,4.0,10.5,25.0,2
+2023,19,Mexico City Grand Prix,Sauber/Alfa Romeo,9.5,14.5,0.0,2
+2023,19,Mexico City Grand Prix,Williams,17.0,12.5,2.0,2
+2023,20,São Paulo Grand Prix,Alpine/Renault,12.5,8.5,7.0,2
+2023,20,São Paulo Grand Prix,Aston Martin/Racing Point/Force India,3.5,4.0,25.0,2
+2023,20,São Paulo Grand Prix,Ferrari,5.0,13.0,8.0,2
+2023,20,São Paulo Grand Prix,Haas,12.5,15.0,0.0,2
+2023,20,São Paulo Grand Prix,McLaren,8.5,8.0,19.0,2
+2023,20,São Paulo Grand Prix,Mercedes,5.5,11.5,4.0,2
+2023,20,São Paulo Grand Prix,RB/AlphaTauri/Toro Rosso,16.5,11.0,2.0,2
+2023,20,São Paulo Grand Prix,Red Bull Racing,5.0,2.5,37.0,2
+2023,20,São Paulo Grand Prix,Sauber/Alfa Romeo,19.0,16.5,0.0,2
+2023,20,São Paulo Grand Prix,Williams,17.0,15.0,0.0,2
+2023,21,Las Vegas Grand Prix,Alpine/Renault,11.0,7.5,12.0,2
+2023,21,Las Vegas Grand Prix,Aston Martin/Racing Point/Force India,12.0,7.0,12.0,2
+2023,21,Las Vegas Grand Prix,Ferrari,1.5,4.0,26.0,2
+2023,21,Las Vegas Grand Prix,Haas,11.0,16.0,0.0,2
+2023,21,Las Vegas Grand Prix,McLaren,17.5,15.0,2.0,2
+2023,21,Las Vegas Grand Prix,Mercedes,7.5,7.5,10.0,2
+2023,21,Las Vegas Grand Prix,RB/AlphaTauri/Toro Rosso,17.5,16.0,0.0,2
+2023,21,Las Vegas Grand Prix,Red Bull Racing,7.5,2.0,40.0,2
+2023,21,Las Vegas Grand Prix,Sauber/Alfa Romeo,13.0,16.0,0.0,2
+2023,21,Las Vegas Grand Prix,Williams,6.5,14.0,0.0,2
+2023,22,Abu Dhabi Grand Prix,Alpine/Renault,11.0,12.5,0.0,2
+2023,22,Abu Dhabi Grand Prix,Aston Martin/Racing Point/Force India,10.0,8.5,7.0,2
+2023,22,Abu Dhabi Grand Prix,Ferrari,9.0,10.0,18.0,2
+2023,22,Abu Dhabi Grand Prix,Haas,12.5,17.5,0.0,2
+2023,22,Abu Dhabi Grand Prix,McLaren,4.0,5.5,18.0,2
+2023,22,Abu Dhabi Grand Prix,Mercedes,7.5,6.0,17.0,2
+2023,22,Abu Dhabi Grand Prix,RB/AlphaTauri/Toro Rosso,10.5,9.5,4.0,2
+2023,22,Abu Dhabi Grand Prix,Red Bull Racing,5.0,2.5,38.0,2
+2023,22,Abu Dhabi Grand Prix,Sauber/Alfa Romeo,18.5,18.0,0.0,2
+2023,22,Abu Dhabi Grand Prix,Williams,17.0,15.0,0.0,2
+2024,1,Bahrain Grand Prix,Alpine/Renault,19.5,17.5,0.0,2
+2024,1,Bahrain Grand Prix,Aston Martin/Racing Point/Force India,9.0,9.5,3.0,2
+2024,1,Bahrain Grand Prix,Ferrari,3.0,3.5,27.0,2
+2024,1,Bahrain Grand Prix,Haas,12.5,14.0,0.0,2
+2024,1,Bahrain Grand Prix,McLaren,7.5,7.0,12.0,2
+2024,1,Bahrain Grand Prix,Mercedes,6.0,6.0,16.0,2
+2024,1,Bahrain Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,13.5,0.0,2
+2024,1,Bahrain Grand Prix,Red Bull Racing,3.0,1.5,44.0,2
+2024,1,Bahrain Grand Prix,Sauber/Alfa Romeo,16.5,15.0,0.0,2
+2024,1,Bahrain Grand Prix,Williams,15.5,17.5,0.0,2
+2024,2,Saudi Arabian Grand Prix,Alpine/Renault,17.5,16.5,0.0,2
+2024,2,Saudi Arabian Grand Prix,Aston Martin/Racing Point/Force India,7.0,12.0,10.0,2
+2024,2,Saudi Arabian Grand Prix,Ferrari,6.5,5.0,22.0,2
+2024,2,Saudi Arabian Grand Prix,Haas,14.0,11.0,1.0,2
+2024,2,Saudi Arabian Grand Prix,McLaren,5.5,6.0,16.0,2
+2024,2,Saudi Arabian Grand Prix,Mercedes,7.5,7.5,10.0,2
+2024,2,Saudi Arabian Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,15.5,0.0,2
+2024,2,Saudi Arabian Grand Prix,Red Bull Racing,2.0,1.5,43.0,2
+2024,2,Saudi Arabian Grand Prix,Sauber/Alfa Romeo,18.0,17.5,0.0,2
+2024,2,Saudi Arabian Grand Prix,Williams,15.5,12.5,0.0,2
+2024,3,Australian Grand Prix,Alpine/Renault,16.0,14.5,0.0,2
+2024,3,Australian Grand Prix,Aston Martin/Racing Point/Force India,9.5,7.0,12.0,2
+2024,3,Australian Grand Prix,Ferrari,3.5,1.5,44.0,2
+2024,3,Australian Grand Prix,Haas,15.0,9.5,3.0,2
+2024,3,Australian Grand Prix,McLaren,5.0,3.5,27.0,2
+2024,3,Australian Grand Prix,Mercedes,9.0,17.5,0.0,2
+2024,3,Australian Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,9.5,6.0,2
+2024,3,Australian Grand Prix,Red Bull Racing,2.0,12.0,10.0,2
+2024,3,Australian Grand Prix,Sauber/Alfa Romeo,16.0,14.5,0.0,2
+2024,3,Australian Grand Prix,Williams,12.0,11.0,0.0,1
+2024,4,Japanese Grand Prix,Alpine/Renault,16.0,15.5,0.0,2
+2024,4,Japanese Grand Prix,Aston Martin/Racing Point/Force India,10.5,9.0,8.0,2
+2024,4,Japanese Grand Prix,Ferrari,6.0,3.5,27.0,2
+2024,4,Japanese Grand Prix,Haas,15.0,12.0,0.0,2
+2024,4,Japanese Grand Prix,McLaren,4.5,6.5,14.0,2
+2024,4,Japanese Grand Prix,Mercedes,8.0,8.0,8.0,2
+2024,4,Japanese Grand Prix,RB/AlphaTauri/Toro Rosso,10.5,14.5,1.0,2
+2024,4,Japanese Grand Prix,Red Bull Racing,1.5,1.5,44.0,2
+2024,4,Japanese Grand Prix,Sauber/Alfa Romeo,16.5,16.0,0.0,2
+2024,4,Japanese Grand Prix,Williams,16.5,18.5,0.0,2
+2024,5,Chinese Grand Prix,Alpine/Renault,14.0,12.0,0.0,2
+2024,5,Chinese Grand Prix,Aston Martin/Racing Point/Force India,7.0,11.0,7.0,2
+2024,5,Chinese Grand Prix,Ferrari,6.5,4.5,22.0,2
+2024,5,Chinese Grand Prix,Haas,13.0,13.0,1.0,2
+2024,5,Chinese Grand Prix,McLaren,4.5,5.0,22.0,2
+2024,5,Chinese Grand Prix,Mercedes,13.0,7.5,10.0,2
+2024,5,Chinese Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,18.5,0.0,2
+2024,5,Chinese Grand Prix,Red Bull Racing,1.5,2.0,40.0,2
+2024,5,Chinese Grand Prix,Sauber/Alfa Romeo,13.0,17.0,0.0,2
+2024,5,Chinese Grand Prix,Williams,17.0,14.5,0.0,2
+2024,6,Miami Grand Prix,Alpine/Renault,12.5,11.0,1.0,2
+2024,6,Miami Grand Prix,Aston Martin/Racing Point/Force India,13.0,13.0,2.0,2
+2024,6,Miami Grand Prix,Ferrari,2.5,4.0,25.0,2
+2024,6,Miami Grand Prix,Haas,14.0,15.0,0.0,2
+2024,6,Miami Grand Prix,McLaren,5.5,7.0,25.0,2
+2024,6,Miami Grand Prix,Mercedes,7.5,7.0,12.0,2
+2024,6,Miami Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,11.0,6.0,2
+2024,6,Miami Grand Prix,Red Bull Racing,2.5,3.0,30.0,2
+2024,6,Miami Grand Prix,Sauber/Alfa Romeo,18.0,15.0,0.0,2
+2024,6,Miami Grand Prix,Williams,15.5,19.0,0.0,2
+2024,7,Emilia Romagna Grand Prix,Alpine/Renault,13.5,15.0,0.0,2
+2024,7,Emilia Romagna Grand Prix,Aston Martin/Racing Point/Force India,16.0,14.0,2.0,2
+2024,7,Emilia Romagna Grand Prix,Ferrari,4.5,4.0,25.0,2
+2024,7,Emilia Romagna Grand Prix,Haas,14.0,11.5,0.0,2
+2024,7,Emilia Romagna Grand Prix,McLaren,2.5,3.0,30.0,2
+2024,7,Emilia Romagna Grand Prix,Mercedes,7.0,6.5,15.0,2
+2024,7,Emilia Romagna Grand Prix,RB/AlphaTauri/Toro Rosso,8.0,11.5,1.0,2
+2024,7,Emilia Romagna Grand Prix,Red Bull Racing,6.0,4.5,29.0,2
+2024,7,Emilia Romagna Grand Prix,Sauber/Alfa Romeo,16.5,16.5,0.0,2
+2024,7,Emilia Romagna Grand Prix,Williams,17.0,18.5,0.0,2
+2024,8,Monaco Grand Prix,Alpine/Renault,10.5,13.5,1.0,2
+2024,8,Monaco Grand Prix,Aston Martin/Racing Point/Force India,13.5,12.5,0.0,2
+2024,8,Monaco Grand Prix,Ferrari,2.0,2.0,40.0,2
+2024,8,Monaco Grand Prix,Haas,14.5,19.5,0.0,2
+2024,8,Monaco Grand Prix,McLaren,3.0,3.0,30.0,2
+2024,8,Monaco Grand Prix,Mercedes,6.0,6.0,17.0,2
+2024,8,Monaco Grand Prix,RB/AlphaTauri/Toro Rosso,10.0,10.0,4.0,2
+2024,8,Monaco Grand Prix,Red Bull Racing,11.0,12.0,8.0,2
+2024,8,Monaco Grand Prix,Sauber/Alfa Romeo,17.5,14.5,0.0,2
+2024,8,Monaco Grand Prix,Williams,12.0,12.0,2.0,2
+2024,9,Canadian Grand Prix,Alpine/Renault,16.5,9.5,3.0,2
+2024,9,Canadian Grand Prix,Aston Martin/Racing Point/Force India,7.5,6.5,14.0,2
+2024,9,Canadian Grand Prix,Ferrari,11.5,17.5,0.0,2
+2024,9,Canadian Grand Prix,Haas,16.5,11.5,0.0,2
+2024,9,Canadian Grand Prix,McLaren,3.5,3.5,28.0,2
+2024,9,Canadian Grand Prix,Mercedes,4.0,3.5,28.0,2
+2024,9,Canadian Grand Prix,RB/AlphaTauri/Toro Rosso,6.5,11.0,4.0,2
+2024,9,Canadian Grand Prix,Red Bull Racing,9.0,9.5,25.0,2
+2024,9,Canadian Grand Prix,Sauber/Alfa Romeo,18.5,14.0,0.0,2
+2024,9,Canadian Grand Prix,Williams,11.5,18.5,0.0,2
+2024,10,Spanish Grand Prix,Alpine/Renault,8.0,9.5,3.0,2
+2024,10,Spanish Grand Prix,Aston Martin/Racing Point/Force India,12.5,13.0,0.0,2
+2024,10,Spanish Grand Prix,Ferrari,5.5,5.5,18.0,2
+2024,10,Spanish Grand Prix,Haas,14.5,14.0,0.0,2
+2024,10,Spanish Grand Prix,McLaren,5.5,4.5,25.0,2
+2024,10,Spanish Grand Prix,Mercedes,3.5,3.5,27.0,2
+2024,10,Spanish Grand Prix,RB/AlphaTauri/Toro Rosso,17.5,17.0,0.0,2
+2024,10,Spanish Grand Prix,Red Bull Racing,5.0,4.5,29.0,2
+2024,10,Spanish Grand Prix,Sauber/Alfa Romeo,13.5,14.5,0.0,2
+2024,10,Spanish Grand Prix,Williams,19.5,19.0,0.0,2
+2024,11,Austrian Grand Prix,Alpine/Renault,11.5,11.0,1.0,2
+2024,11,Austrian Grand Prix,Aston Martin/Racing Point/Force India,16.0,15.5,0.0,2
+2024,11,Austrian Grand Prix,Ferrari,5.0,7.0,15.0,2
+2024,11,Austrian Grand Prix,Haas,10.5,7.0,12.0,2
+2024,11,Austrian Grand Prix,McLaren,4.5,11.0,18.0,2
+2024,11,Austrian Grand Prix,Mercedes,4.0,2.5,37.0,2
+2024,11,Austrian Grand Prix,RB/AlphaTauri/Toro Rosso,12.5,11.5,2.0,2
+2024,11,Austrian Grand Prix,Red Bull Racing,4.5,6.0,16.0,2
+2024,11,Austrian Grand Prix,Sauber/Alfa Romeo,19.0,16.5,0.0,2
+2024,11,Austrian Grand Prix,Williams,17.5,17.0,0.0,2
+2024,12,British Grand Prix,Alpine/Renault,19.0,18.0,0.0,2
+2024,12,British Grand Prix,Aston Martin/Racing Point/Force India,9.0,7.5,10.0,2
+2024,12,British Grand Prix,Ferrari,9.0,9.5,11.0,2
+2024,12,British Grand Prix,Haas,11.5,9.0,8.0,2
+2024,12,British Grand Prix,McLaren,4.0,3.5,27.0,2
+2024,12,British Grand Prix,Mercedes,1.5,10.0,25.0,2
+2024,12,British Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,11.5,1.0,2
+2024,12,British Grand Prix,Red Bull Racing,11.5,9.5,18.0,2
+2024,12,British Grand Prix,Sauber/Alfa Romeo,15.0,16.5,0.0,2
+2024,12,British Grand Prix,Williams,10.5,10.0,2.0,2
+2024,13,Hungarian Grand Prix,Alpine/Renault,19.5,19.0,0.0,2
+2024,13,Hungarian Grand Prix,Aston Martin/Racing Point/Force India,7.5,10.5,1.0,2
+2024,13,Hungarian Grand Prix,Ferrari,5.0,5.0,20.0,2
+2024,13,Hungarian Grand Prix,Haas,13.0,14.0,0.0,2
+2024,13,Hungarian Grand Prix,McLaren,1.5,1.5,43.0,2
+2024,13,Hungarian Grand Prix,Mercedes,11.0,5.5,20.0,2
+2024,13,Hungarian Grand Prix,RB/AlphaTauri/Toro Rosso,9.5,10.5,2.0,2
+2024,13,Hungarian Grand Prix,Red Bull Racing,9.5,6.0,16.0,2
+2024,13,Hungarian Grand Prix,Sauber/Alfa Romeo,15.0,17.5,0.0,2
+2024,13,Hungarian Grand Prix,Williams,13.5,15.5,0.0,2
+2024,14,Belgian Grand Prix,Alpine/Renault,11.0,11.0,2.0,2
+2024,14,Belgian Grand Prix,Aston Martin/Racing Point/Force India,12.0,9.5,4.0,2
+2024,14,Belgian Grand Prix,Ferrari,5.0,4.5,23.0,2
+2024,14,Belgian Grand Prix,Haas,16.5,16.0,0.0,2
+2024,14,Belgian Grand Prix,McLaren,5.5,3.5,28.0,2
+2024,14,Belgian Grand Prix,Mercedes,5.5,10.5,25.0,2
+2024,14,Belgian Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,13.0,1.0,2
+2024,14,Belgian Grand Prix,Red Bull Racing,2.0,5.5,19.0,2
+2024,14,Belgian Grand Prix,Sauber/Alfa Romeo,17.0,17.0,0.0,2
+2024,14,Belgian Grand Prix,Williams,15.0,14.5,0.0,2
+2024,15,Dutch Grand Prix,Alpine/Renault,12.5,12.0,2.0,2
+2024,15,Dutch Grand Prix,Aston Martin/Racing Point/Force India,7.5,11.5,1.0,2
+2024,15,Dutch Grand Prix,Ferrari,8.0,4.0,25.0,2
+2024,15,Dutch Grand Prix,Haas,13.5,14.5,0.0,2
+2024,15,Dutch Grand Prix,McLaren,2.0,2.5,38.0,2
+2024,15,Dutch Grand Prix,Mercedes,7.5,7.5,10.0,2
+2024,15,Dutch Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,14.5,0.0,2
+2024,15,Dutch Grand Prix,Red Bull Racing,3.5,4.0,26.0,2
+2024,15,Dutch Grand Prix,Sauber/Alfa Romeo,17.5,19.5,0.0,2
+2024,15,Dutch Grand Prix,Williams,15.0,15.0,0.0,2
+2024,16,Italian Grand Prix,Alpine/Renault,14.5,14.5,0.0,2
+2024,16,Italian Grand Prix,Aston Martin/Racing Point/Force India,14.0,15.0,0.0,2
+2024,16,Italian Grand Prix,Ferrari,4.5,2.5,37.0,2
+2024,16,Italian Grand Prix,Haas,11.5,13.5,1.0,2
+2024,16,Italian Grand Prix,McLaren,1.5,2.5,34.0,2
+2024,16,Italian Grand Prix,Mercedes,4.5,6.0,16.0,2
+2024,16,Italian Grand Prix,RB/AlphaTauri/Toro Rosso,14.0,16.5,0.0,2
+2024,16,Italian Grand Prix,Red Bull Racing,7.5,7.0,12.0,2
+2024,16,Italian Grand Prix,Sauber/Alfa Romeo,19.5,17.0,0.0,2
+2024,16,Italian Grand Prix,Williams,13.5,10.5,2.0,2
+2024,17,Azerbaijan Grand Prix,Alpine/Renault,17.0,13.5,0.0,2
+2024,17,Azerbaijan Grand Prix,Aston Martin/Racing Point/Force India,11.0,12.5,8.0,2
+2024,17,Azerbaijan Grand Prix,Ferrari,2.0,10.0,18.0,2
+2024,17,Azerbaijan Grand Prix,Haas,12.0,10.5,1.0,2
+2024,17,Azerbaijan Grand Prix,McLaren,9.0,2.5,38.0,2
+2024,17,Azerbaijan Grand Prix,Mercedes,6.0,6.0,17.0,2
+2024,17,Azerbaijan Grand Prix,RB/AlphaTauri/Toro Rosso,13.5,16.5,0.0,2
+2024,17,Azerbaijan Grand Prix,Red Bull Racing,5.0,11.0,10.0,2
+2024,17,Azerbaijan Grand Prix,Sauber/Alfa Romeo,17.5,15.0,0.0,2
+2024,17,Azerbaijan Grand Prix,Williams,9.5,7.5,10.0,2
+2024,18,Singapore Grand Prix,Alpine/Renault,16.5,15.0,0.0,2
+2024,18,Singapore Grand Prix,Aston Martin/Racing Point/Force India,12.0,11.0,4.0,2
+2024,18,Singapore Grand Prix,Ferrari,9.5,6.0,16.0,2
+2024,18,Singapore Grand Prix,Haas,10.0,14.0,2.0,2
+2024,18,Singapore Grand Prix,McLaren,3.0,2.0,40.0,2
+2024,18,Singapore Grand Prix,Mercedes,3.5,5.0,20.0,2
+2024,18,Singapore Grand Prix,RB/AlphaTauri/Toro Rosso,12.0,15.0,0.0,2
+2024,18,Singapore Grand Prix,Red Bull Racing,7.5,6.0,19.0,2
+2024,18,Singapore Grand Prix,Sauber/Alfa Romeo,19.5,15.5,0.0,2
+2024,18,Singapore Grand Prix,Williams,11.5,15.5,0.0,2
+2024,19,United States Grand Prix,Alpine/Renault,10.0,15.0,0.0,2
+2024,19,United States Grand Prix,Aston Martin/Racing Point/Force India,11.0,14.0,0.0,2
+2024,19,United States Grand Prix,Ferrari,3.5,1.5,43.0,2
+2024,19,United States Grand Prix,Haas,10.5,9.5,4.0,2
+2024,19,United States Grand Prix,McLaren,3.0,4.5,22.0,2
+2024,19,United States Grand Prix,Mercedes,12.5,13.0,8.0,2
+2024,19,United States Grand Prix,RB/AlphaTauri/Toro Rosso,13.0,11.5,2.0,2
+2024,19,United States Grand Prix,Red Bull Racing,6.0,5.0,21.0,2
+2024,19,United States Grand Prix,Sauber/Alfa Romeo,19.0,18.0,0.0,2
+2024,19,United States Grand Prix,Williams,16.5,13.0,1.0,2
+2024,20,Mexico City Grand Prix,Alpine/Renault,13.5,11.5,1.0,2
+2024,20,Mexico City Grand Prix,Aston Martin/Racing Point/Force India,13.5,14.5,0.0,2
+2024,20,Mexico City Grand Prix,Ferrari,2.5,2.0,41.0,2
+2024,20,Mexico City Grand Prix,Haas,8.5,8.0,8.0,2
+2024,20,Mexico City Grand Prix,McLaren,10.0,5.0,22.0,2
+2024,20,Mexico City Grand Prix,Mercedes,5.5,4.5,22.0,2
+2024,20,Mexico City Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,18.0,0.0,2
+2024,20,Mexico City Grand Prix,Red Bull Racing,10.0,11.5,8.0,2
+2024,20,Mexico City Grand Prix,Sauber/Alfa Romeo,17.5,14.5,0.0,2
+2024,20,Mexico City Grand Prix,Williams,12.5,15.5,0.0,2
+2024,21,São Paulo Grand Prix,Alpine/Renault,9.5,2.5,33.0,2
+2024,21,São Paulo Grand Prix,Aston Martin/Racing Point/Force India,9.5,16.5,0.0,2
+2024,21,São Paulo Grand Prix,Ferrari,10.0,10.5,10.0,2
+2024,21,São Paulo Grand Prix,Haas,18.0,16.0,0.0,2
+2024,21,São Paulo Grand Prix,McLaren,4.5,7.0,12.0,2
+2024,21,São Paulo Grand Prix,Mercedes,9.0,7.0,13.0,2
+2024,21,São Paulo Grand Prix,RB/AlphaTauri/Toro Rosso,4.0,8.0,8.0,2
+2024,21,São Paulo Grand Prix,Red Bull Racing,12.5,6.0,26.0,2
+2024,21,São Paulo Grand Prix,Sauber/Alfa Romeo,15.5,14.0,0.0,2
+2024,21,São Paulo Grand Prix,Williams,12.5,17.5,0.0,2
+2024,22,Las Vegas Grand Prix,Alpine/Renault,7.0,18.5,0.0,2
+2024,22,Las Vegas Grand Prix,Aston Martin/Racing Point/Force India,18.5,13.0,0.0,2
+2024,22,Las Vegas Grand Prix,Ferrari,3.0,3.5,27.0,2
+2024,22,Las Vegas Grand Prix,Haas,10.5,10.0,4.0,2
+2024,22,Las Vegas Grand Prix,McLaren,7.0,6.5,15.0,2
+2024,22,Las Vegas Grand Prix,Mercedes,5.5,1.5,43.0,2
+2024,22,Las Vegas Grand Prix,RB/AlphaTauri/Toro Rosso,11.0,12.5,2.0,2
+2024,22,Las Vegas Grand Prix,Red Bull Racing,10.5,7.5,11.0,2
+2024,22,Las Vegas Grand Prix,Sauber/Alfa Romeo,16.0,15.5,0.0,2
+2024,22,Las Vegas Grand Prix,Williams,16.0,16.5,0.0,2
+2024,23,Qatar Grand Prix,Alpine/Renault,15.5,12.5,10.0,2
+2024,23,Qatar Grand Prix,Aston Martin/Racing Point/Force India,11.5,12.5,6.0,2
+2024,23,Qatar Grand Prix,Ferrari,6.0,4.0,26.0,2
+2024,23,Qatar Grand Prix,Haas,14.0,12.5,2.0,2
+2024,23,Qatar Grand Prix,McLaren,3.5,6.5,17.0,2
+2024,23,Qatar Grand Prix,Mercedes,4.0,8.0,12.0,2
+2024,23,Qatar Grand Prix,RB/AlphaTauri/Toro Rosso,15.5,13.5,0.0,2
+2024,23,Qatar Grand Prix,Red Bull Racing,5.0,9.0,25.0,2
+2024,23,Qatar Grand Prix,Sauber/Alfa Romeo,12.5,9.5,4.0,2
+2024,23,Qatar Grand Prix,Williams,17.5,17.0,0.0,2
+2024,24,Abu Dhabi Grand Prix,Alpine/Renault,13.0,11.0,6.0,2
+2024,24,Abu Dhabi Grand Prix,Aston Martin/Racing Point/Force India,10.5,11.5,2.0,2
+2024,24,Abu Dhabi Grand Prix,Ferrari,8.5,2.5,33.0,2
+2024,24,Abu Dhabi Grand Prix,Haas,9.5,12.0,4.0,2
+2024,24,Abu Dhabi Grand Prix,McLaren,1.5,5.5,26.0,2
+2024,24,Abu Dhabi Grand Prix,Mercedes,12.5,4.5,22.0,2
+2024,24,Abu Dhabi Grand Prix,RB/AlphaTauri/Toro Rosso,11.5,14.5,0.0,2
+2024,24,Abu Dhabi Grand Prix,Red Bull Racing,7.5,13.0,8.0,2
+2024,24,Abu Dhabi Grand Prix,Sauber/Alfa Romeo,13.0,15.5,0.0,2
+2024,24,Abu Dhabi Grand Prix,Williams,17.5,15.0,0.0,2

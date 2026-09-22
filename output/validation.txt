@@ -1,0 +1,23 @@
+PASS Original preserved: data/raw/f1_performance_data_2018_2025_complete.csv
+PASS Original preserved: data/raw/f1_sponsors_original.csv
+PASS Original preserved: data/raw/f1_sponsors_standardized.csv
+PASS 2083 corrected sponsor-team-season records
+PASS 1769 observable transitions
+PASS Unique sponsor-team-season panel keys
+PASS Only 2018-2024 origin performance enters panel
+PASS 70 performance team-seasons; all 2025 performance quarantined
+PASS McLaren Volvo Trucks continuation 2018
+PASS McLaren Volvo Trucks continuation 2019
+PASS Volvo tenure/censoring follows corrected uninterrupted sequence
+PASS 2020 BlueDEF is one sponsor
+PASS No Blue/DEF fragments remain in matched data
+PASS 2018 Haas presence and continuation: peak
+PASS 2018 Haas presence and continuation: bluedef
+PASS No missing main model covariates
+PASS Binary continuation outcomes
+PASS Main inference uses t(9)
+PASS Centering year preserves fitted probabilities
+PASS Bootstrap coefficient/CR1 SE agrees with statsmodels: QualRaceCorrelation
+PASS Bootstrap coefficient/CR1 SE agrees with statsmodels: MeanRaceFinishPos
+PASS Bootstrap coefficient/CR1 SE agrees with statsmodels: C(Industry)[T.Automotive]
+PASS Bootstrap coefficient/CR1 SE agrees with statsmodels: C(Industry)[T.Crypto & Web3]

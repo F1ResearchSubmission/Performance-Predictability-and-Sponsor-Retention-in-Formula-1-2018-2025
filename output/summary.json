@@ -1,0 +1,12 @@
+{
+  "source_records": 2082,
+  "corrected_records": 2083,
+  "unique_sponsor_keys": 643,
+  "observations": 1769,
+  "continued": 1275,
+  "continuation_rate": 0.7207461842849068,
+  "pseudo_r2": 0.036599863024415424,
+  "auc": 0.5731900533079086,
+  "team_clusters": 10,
+  "team_seasons": 70
+}

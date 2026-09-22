@@ -1,0 +1,55 @@
+Variant,Canonical,Decision,Reason
+Phillip Morris International,Philip Morris International,typo,spelling error
+Trak Racer,Track Racer,typo,spelling variant of same brand
+Sport Pesa,SportsPesa,typo,spelling variant
+AB Dynamic,AB Dynamics,typo,missing letter
+Accelleron,Acceleron,typo,spelling variant
+Kapersky,Kaspersky,typo,spelling error
+Kaspersky Lab,Kaspersky,typo,former company name
+Petrobas,Petrobras,typo,spelling error
+Interoll,Interroll,typo,spelling error
+GF Matching Solutions,GF Machining Solutions,typo,spelling error
+Pelmar,Pelmark,typo,missing letter
+Brütsch/Rüegger,Brutsch-Ruegger,typo,diacritics and separator
+Weichei,Weichai,typo,spelling error
+Bell and Ross,Bell & Ross,typo,and vs ampersand
+Ebb,EBB3,typo,truncated name
+EGV,EGV1,typo,truncated name
+Socios,Socios.com,typo,domain suffix only
+socios.com,Socios.com,typo,domain suffix only
+Crew Clothing,Crew Clothing Company,typo,shortened company name
+British American Tobacco,British-American Tobacco (A Better Tomorrow),typo,same company - campaign suffix
+Hackett,Hackett London,typo,shortened brand name
+Police,Police Eyewear,typo,shortened brand name
+Alteryx Analytics,Alteryx,typo,shortened company name
+Delphi Technologies,Delphi,typo,shortened company name
+Arrow,Arrow Electronics,typo,shortened company name
+Mazak Machine Tools,Mazak,typo,shortened company name
+Dell,Dell Technologies,typo,shortened company name
+Adler,Adler Pelzer Group,typo,shortened company name
+Dita,Dita Eyewear,typo,shortened brand name
+Plug,Plug Power,typo,shortened company name
+Genii,Genii Capital,typo,shortened company name
+Mitsubishi,Mitsubishi Electric,typo,shortened company name
+Blue Def,BlueDEF,typo,spacing only; malformed Haas source records repaired by scoped correction table
+Bell Helmets,Bell,typo,product suffix
+Magnesium Mineralised Water,Magnesium,typo,product suffix
+Magneti Marelli,Marelli,typo,company rebranded 2019
+Inter,Inter.mx,typo,domain suffix only
+Hewlett Packard Enterprises,Hewlett Packard Enterprise,typo,plural typo
+AMG Petronas,Petronas,brand,title-sponsor naming vs company
+Peroni 0.0,Peroni,brand,product line of same brand
+Logitech G,Logitech,brand,gaming sub-brand
+Mobil 1 Esso,Mobil1,brand,ExxonMobil partnership naming
+Esso,Mobil1,brand,ExxonMobil partnership naming
+HP/Poly,Poly,brand,HP acquired Poly 2022
+Cisco Webex,Webex,brand,Cisco product
+Cisco,Webex,keep,parent company may be listed separately from product
+AkzoNobel-Sikkens,Sikkens,brand,Sikkens is AkzoNobel brand
+Renault Pro+,Renault,brand,manufacturer sub-brand
+Renault E-Tech,Renault,brand,manufacturer sub-brand
+Puma Swisse,Puma,brand,likely data-entry variant
+Hewlett Packard,Hewlett Packard Enterprise,keep,HP Inc and HPE are separate companies since 2015
+Volvo,Volvo Trucks,keep,Volvo Cars and Volvo Trucks are separate companies
+Inter Proteccion,Inter.mx,keep,no evidence of same company
+Hard Rock International,Inter.mx,keep,false positive

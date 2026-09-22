@@ -1,0 +1,6 @@
+Model,Term,LPM_coefficient,WCR_p,Draws
+primary,QualRaceCorrelation,-0.013356588697354564,0.7606,9999
+primary,MeanRaceFinishPos,-0.0090547260045815,0.0058,9999
+primary,C(Industry)[T.Automotive],0.10830839832578877,0.0367,9999
+primary,C(Industry)[T.Crypto & Web3],-0.17272316951267205,0.0209,9999
+alternative,PredStability,0.01513176936117218,0.7435,9999

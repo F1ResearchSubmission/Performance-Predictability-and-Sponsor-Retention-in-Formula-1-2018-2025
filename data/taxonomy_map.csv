@@ -1,0 +1,62 @@
+IndustryRaw,Industry,Note
+Technology,Technology,
+Consumer Electronics,Technology,
+Ecommerce,Technology,duplicate spelling
+E-commerce,Technology,duplicate spelling
+Cybersecurity,Cybersecurity,kept separate - distinct B2B buying motive
+Automotive,Automotive,
+Industrial,Industrial & Aerospace,
+Aerospace,Industrial & Aerospace,
+Chemicals,Industrial & Aerospace,
+Water Technology,Industrial & Aerospace,
+Apparel,Apparel & Sportswear,
+Fitness,Apparel & Sportswear,
+Cycling,Apparel & Sportswear,
+Fashion,Luxury & Fashion,
+Luxury,Luxury & Fashion,general luxury brands
+Travel/Luggage,Luxury & Fashion,premium luggage brands
+Luxury Watches,Luxury Watches,kept separate - official timekeeper deals are structurally distinct
+Finance,Financial Services,
+Investment,Financial Services,
+Insurance,Financial Services,
+Payments,Financial Services,
+Crypto/Web3,Crypto & Web3,kept separate from betting
+Cryptocurrency,Crypto & Web3,duplicate spelling
+Gambling/Betting,Other,n=12 too small for its own category
+Energy/Oil,Energy,
+Energy,Energy,duplicate spelling
+Beverages/Food,Food & Beverage,
+Health/Supplements,Food & Beverage,
+Telecom,Telecom,
+Aviation,"Travel, Hospitality & Logistics",
+Hospitality,"Travel, Hospitality & Logistics",
+Logistics,"Travel, Hospitality & Logistics",
+Transport,"Travel, Hospitality & Logistics",
+Media,Media & Entertainment,
+Marketing,Media & Entertainment,
+Esports,Media & Entertainment,
+Gaming,Media & Entertainment,
+Gaming/Esports,Media & Entertainment,duplicate spelling
+Sports/League,Media & Entertainment,
+Consumer Goods,Consumer Goods & Retail,
+Retail,Consumer Goods & Retail,
+Home & Living,Consumer Goods & Retail,
+Staffing,Business Services,
+Professional Services,Business Services,
+Services,Business Services,duplicate spelling
+Legal,Business Services,
+Education,Business Services,
+Life Sciences,Other,n=8 combined - too small for its own category
+Health,Other,duplicate spelling
+Tobacco,Other,n=11 too small for its own category
+Nonprofit,Other,
+Other,Other,
+Beauty,Consumer Goods & Retail,single record
+Environmental Services,Industrial & Aerospace,single record
+Healthcare,Other,consistent with Health
+Mining,Industrial & Aerospace,single record
+Power/UPS,Industrial & Aerospace,uninterruptible power supply
+Ticketing,Media & Entertainment,single record
+Toys/Games,Consumer Goods & Retail,single record
+Travel,"Travel, Hospitality & Logistics",single record
+Workplace Coaching,Business Services,single record

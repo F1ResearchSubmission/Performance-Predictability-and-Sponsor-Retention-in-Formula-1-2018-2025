@@ -1,0 +1,7 @@
+ID,Action,Team,Season,OldName,NewName,Industry,SourceID,Reason
+S001,rename,McLaren,2019,Volvo,Volvo Trucks,Automotive,VOLVO2019,Official supplier was Volvo Trucks; resolve ambiguous name within this team and season only
+S002,rename,Haas,2019,Blue Def,BlueDEF,Automotive,HAAS2018,Canonical name of the documented partner
+S003,rename,Haas,2020,Blue,BlueDEF,Automotive,HAAS2020,First fragment of one BlueDEF partner; combine with S004
+S004,rename,Haas,2020,DEF,BlueDEF,Automotive,HAAS2020,Second fragment of one BlueDEF partner; combine with S003
+S005,add,Haas,2018,,Peak,Automotive,HAAS2018,Official October 2018 announcement states presence since the British Grand Prix
+S006,add,Haas,2018,,BlueDEF,Automotive,HAAS2018,Official October 2018 announcement states presence since the British Grand Prix

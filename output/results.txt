@@ -1,0 +1,31 @@
+Primary logit: CR1 cluster covariance and t(9) inference; conditional associations.
+{
+  "source_records": 2082,
+  "corrected_records": 2083,
+  "unique_sponsor_keys": 643,
+  "observations": 1769,
+  "continued": 1275,
+  "continuation_rate": 0.7207461842849068,
+  "pseudo_r2": 0.036599863024415424,
+  "auc": 0.5731900533079086,
+  "team_clusters": 10,
+  "team_seasons": 70
+}
+
+                        Term    Scale  Multiplier       OR   CI_low  CI_high        P
+         QualRaceCorrelation per_unit    1.000000 0.929996 0.541058 1.598523 0.768703
+         QualRaceCorrelation   per_SD    0.252552 0.981838 0.856308 1.125770 0.768703
+           MeanRaceFinishPos per_unit    1.000000 0.953721 0.931961 0.975989 0.001212
+   C(Industry)[T.Automotive] per_unit    1.000000 1.831177 1.059227 3.165712 0.033866
+C(Industry)[T.Crypto & Web3] per_unit    1.000000 0.467712 0.260517 0.839692 0.016552
+               PredStability per_unit    1.000000 1.091935 0.804130 1.482749 0.531739
+               PredStability   per_SD    0.782137 1.071211 0.843242 1.360813 0.531739
+
+Prediction: separate L2-regularized logit; five team-grouped folds.
+                             AUC     Brier  BaselineBrier
+Model                                                    
+full                    0.573190  0.199852       0.202501
+without_performance     0.572669  0.200988       0.202501
+without_predictability  0.573965  0.199756       0.202501
+
+No ordinary independent-observation industry chi-square test is reported.

@@ -1,0 +1,14 @@
+Clusters: 10 teams, n = 1,769
+Logit CR1/t(9); WCR is a LINEAR PROBABILITY MODEL sensitivity check, not a logistic bootstrap.
+9999 restricted draws, Webb weights, seed 20260921; centered year and pseudoinverse.
+
+                                Logit OR   p, t(G-1)   LPM coef  p, WCR boot
+Predictability                     0.930      0.7687    -0.0134       0.7606
+Mean race finish                   0.954      0.0012    -0.0091       0.0058
+Automotive vs Technology           1.831      0.0339     0.1083       0.0367
+Crypto & Web3 vs Technology        0.468      0.0166    -0.1727       0.0209
+Alternative LPM: coefficient 0.0151, WCR p 0.7435
+
+Predictability odds ratio, 95% CI (t(G-1))
+  per 1.0 change in correlation   OR 0.930  [0.541, 1.599]
+  per 1 SD (0.253)               OR 0.982  [0.856, 1.126]
